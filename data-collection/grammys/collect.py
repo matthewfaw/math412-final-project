@@ -63,10 +63,10 @@ def _construct_grammy_entries(entries):
     grammy_entries = []
     for i in range(0,len(entries)):
         entry = entries[i]
-        year = get_grammy_field(entry, 'year')
-        category = get_grammy_field(entry, 'category-code')
-        nominee_work = get_grammy_field(entry, 'field-nominee-work')
-        credits = get_grammy_field(entry, 'field-nominee-extended')
+        year = _get_grammy_field(entry, 'year')
+        category = _get_grammy_field(entry, 'category-code')
+        nominee_work = _get_grammy_field(entry, 'field-nominee-work')
+        credits = _get_grammy_field(entry, 'field-nominee-extended')
         print category
 
         e = Entry(year, category, nominee_work, credits)
@@ -77,12 +77,12 @@ def _construct_grammy_entries(entries):
 # https://paulhoganreid.wordpress.com/2015/01/19/using-python-and-selenium-to-scrape-an-infinitely-scrolling-table/
 def scrape_sections(url):
     """Scrapes the requested url for grammy data. Returns a list of all grammy entries on the page"""
-    driver = open_browser(url)
-    scroll_to_bottom(driver, 3)
+    driver = _open_browser(url)
+    _scroll_to_bottom(driver, 3)
     table = driver.find_element_by_xpath("//table[@class='views-table cols-4']/tbody")
     entries = table.find_elements_by_tag_name('tr')
 
-    grammy_entries = construct_grammy_entries(entries)
+    grammy_entries = _construct_grammy_entries(entries)
     driver.quit()
            
     return grammy_entries
