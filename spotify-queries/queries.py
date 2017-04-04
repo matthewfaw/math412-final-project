@@ -14,6 +14,8 @@ def get_spotify_id(song_name, artist_name):
 			return None
 
 def vectorize_song(song_id):
+	result = sp.audio_features(song_id)
+	print result
 	return
 
 if len(sys.argv) > 2:
@@ -23,4 +25,6 @@ else:
 	song_name = 'wake me up when september ends'
 	artist_name = 'green day'
 
-print get_spotify_id(song_name, artist_name)
+id = get_spotify_id(song_name, artist_name)
+print id
+vectorize_song(id) 
