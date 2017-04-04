@@ -16,3 +16,5 @@ A music data exploration project using Topological Data Analysis
   - For string parsing
 - [time](https://docs.python.org/2/library/time.html)
   - To delay code execution over a time interval
+- [urlparse](https://docs.python.org/2/library/urlparse.html)
+  - To easily access query parameters of a URL
