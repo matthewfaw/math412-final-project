@@ -1,23 +1,12 @@
 import urllib2, re
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common import action_chains
-import time
+from urlparse import urlparse, parse_qs
+from browser_manager import open_browser, scroll_to_bottom
+from grammy_page_parser import construct_grammy_entries
 
 GRAMMY_DATA_URL = 'https://www.grammy.com/awards'
 
-class Entry:
-    def __init__(self, year, category, nominee_work, credits):
-        self.year = year
-        self.category = category
-        self.nominee_work = nominee_work
-        self.credits = credits
-    def __str__(self):
-        return "Year: %s\nCategory: %s\nNominee Work: %s\nCredits: %s" % (self.year,self.category,self.nominee_work,self.credits)
-    def __repr__(self):
-        return str(self)
-
 def get_all_grammy_pages():
+    """Return a list of grammy pages to scrape.  Each page represents a different year"""
     res = urllib2.urlopen(GRAMMY_DATA_URL)
     html = res.read()
 
@@ -25,44 +14,10 @@ def get_all_grammy_pages():
     urls = [re.search('\".*\"',line).group(0).replace('"','') for line in lines]
     return urls
 
-def open_browser(url):
-    driver = webdriver.Firefox()
-    driver.get(url)
-    return driver
-
-def scroll_to_bottom(driver, pauseTime):
-    currHeight = driver.execute_script("return document.body.scrollHeight")
-     
-    while True:
-        print currHeight
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
-        time.sleep(pauseTime)
-        nextHeight = driver.execute_script("return document.body.scrollHeight")
-        if nextHeight == currHeight:
-            break
-        currHeight = nextHeight
-
-def get_grammy_field(entry, field):
-    t =  entry.find_element_by_xpath(".//td[@class='views-field views-field-"+field+"']").text
-    return t
-
-def construct_grammy_entries(entries):
-    grammy_entries = []
-    for i in range(0,len(entries)):
-        entry = entries[i]
-        year = get_grammy_field(entry, 'year')
-        category = get_grammy_field(entry, 'category-code')
-        nominee_work = get_grammy_field(entry, 'field-nominee-work')
-        credits = get_grammy_field(entry, 'field-nominee-extended')
-        print category
-
-        e = Entry(year, category, nominee_work, credits)
-        grammy_entries.append(e)
-
-    return grammy_entries
 
 # https://paulhoganreid.wordpress.com/2015/01/19/using-python-and-selenium-to-scrape-an-infinitely-scrolling-table/
 def scrape_sections(url):
+    """Scrapes the requested url for grammy data. Returns a list of all grammy entries on the page"""
     driver = open_browser(url)
     scroll_to_bottom(driver, 3)
     table = driver.find_element_by_xpath("//table[@class='views-table cols-4']/tbody")
@@ -73,6 +28,15 @@ def scrape_sections(url):
            
     return grammy_entries
 
-all_urls = get_all_grammy_pages()
+def get_grammy_data():
+    """Collects grammy data from all years into a single list"""
+    grammy_data = []
+    for url in get_all_grammy_pages():
+        print 'Scraping %s'%url
+        print parse_qs(urlparse(url).query)['year'][0]
+        grammy_data.extend(scrape_sections(url))
+    return grammy_data
 
-grammy_entries = scrape_sections(all_urls[0])
+# all_urls = get_all_grammy_pages()
+# grammy_entries = scrape_sections(all_urls[0])
+get_grammy_data()
