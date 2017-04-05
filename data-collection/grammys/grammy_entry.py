@@ -8,3 +8,10 @@ class Entry:
         return "Year: %s\nCategory: %s\nNominee Work: %s\nCredits: %s" % (self.year,self.category,self.nominee_work,self.credits)
     def __repr__(self):
         return str(self)
+    def toArray(self):
+        return [
+                self.year,
+                self.category,
+                self.nominee_work,
+                self.credits
+                ]

@@ -39,4 +39,4 @@ def get_grammy_data():
 
 # all_urls = get_all_grammy_pages()
 # grammy_entries = scrape_sections(all_urls[0])
-get_grammy_data()
+# get_grammy_data()
