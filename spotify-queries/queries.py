@@ -1,5 +1,9 @@
+from ids import client_ids as cid
+from spotipy.oauth2 import SpotifyClientCredentials
+import json
 import sys
 import spotipy
+import time
 
 sp = spotipy.Spotify()
 
@@ -14,7 +18,18 @@ def get_spotify_id(song_name, artist_name):
 			return None
 
 def vectorize_song(song_id):
-	return
+	client_credentials_manager = SpotifyClientCredentials(client_id=cid.client_id, client_secret=cid.client_secret)
+	sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+	sp.trace=True
+	features = sp.audio_features([song_id])
+	print(json.dumps(features, indent=4))
+	dict = features[0]
+	print dict['energy']
+	return [dict['energy'], dict['liveness'], dict['tempo'], dict['speechiness'], dict['acousticness'], dict['instrumentalness'], dict['time_signature'], dict['danceability'], dict['key'], dict['duration_ms'], dict['loudness'], dict['valence']]
+
+def spotify_query(song_name, artist_name):
+	song_id = get_spotify_id(song_name, artist_name)
+	return vectorize_song(song_id)
 
 if len(sys.argv) > 2:
 	song_name = sys.argv[1]
@@ -23,4 +38,5 @@ else:
 	song_name = 'wake me up when september ends'
 	artist_name = 'green day'
 
-print get_spotify_id(song_name, artist_name)
+#id = get_spotify_id(song_name, artist_name)
+print spotify_query(song_name, artist_name) 
