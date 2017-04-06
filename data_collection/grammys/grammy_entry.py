@@ -5,7 +5,8 @@ class Entry:
         self.nominee_work = nominee_work
         self.credits = credits
     def __str__(self):
-        return "Year: %s\nCategory: %s\nNominee Work: %s\nCredits: %s" % (self.year,self.category,self.nominee_work,self.credits)
+        s = 'Year: %s\nCategory: %s\nNominee Work: %s\nCredits: %s' % (self.year,self.category,self.nominee_work,self.credits)
+        return s.encode('utf-8')
     def __repr__(self):
         return str(self)
     def toArray(self):

@@ -19,4 +19,4 @@ def convert_credits_to_names(array):
     return array
 
 x = deserialize('20170405-213931NAMED.csv')
-print x[0]
+print x
