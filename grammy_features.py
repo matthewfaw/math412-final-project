@@ -8,7 +8,8 @@ for entry in deserialize('20170405-213931NAMED.csv'):
     feature = spotify_query(entry.nominee_work, entry.credits)
     if isinstance(feature, basestring):
         not_found_songs.append(feature)
-    entries_list.append(feature)
+    else:
+        entries_list.append(feature)
 
 serialize(entries_list, "entries")
 for i in not_found_songs:
