@@ -1,8 +1,9 @@
 import time
 import unicodecsv as csv
+import os
 from grammy_entry import Entry
 
-DEFAULT_FILEPATH = 'data/'
+DEFAULT_FILEPATH = os.path.dirname(__file__) + '/../grammy_data/'
 
 def _defaultify(filename):
     return DEFAULT_FILEPATH + filename
