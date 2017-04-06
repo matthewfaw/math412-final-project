@@ -30,6 +30,9 @@ def vectorize_song(song_id):
 
 def spotify_query(song_name, artist_name):
 	song_id = get_spotify_id(song_name, artist_name)
+	if song_id == None:
+		print "song ID not found, skipping this song"
+		return
 	return vectorize_song(song_id)
 
 if len(sys.argv) > 2:
