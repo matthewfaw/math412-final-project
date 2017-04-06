@@ -14,8 +14,9 @@ def get_spotify_id(song_name, artist_name):
 		#print track['id']
 		if track['artists'][0]['name'].lower() == artist_name.lower():
 			return track['id']
-		else:
-			return None
+		#else:
+		#	return None
+	return None
 
 def vectorize_song(song_id):
 	client_credentials_manager = SpotifyClientCredentials(client_id=cid.client_id, client_secret=cid.client_secret)
