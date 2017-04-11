@@ -62,3 +62,13 @@ A music data exploration project using Topological Data Analysis
     - `array`: a list of Entry objects
   - Output:
     - same list of Entries, where the credits field of each entry now corresponds to an Artist name
+    
+## Spotify API
+
+### queries.py
+
+- get_spotify_id(song_name, artist_name)
+
+- vectorize_song(song_id)
+
+- spotify_query(song_name, artist_name)
