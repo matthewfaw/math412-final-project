@@ -18,3 +18,47 @@ A music data exploration project using Topological Data Analysis
   - To delay code execution over a time interval
 - [urlparse](https://docs.python.org/2/library/urlparse.html)
   - To easily access query parameters of a URL
+
+# API
+
+## Grammy API (data_collection/grammys/)
+
+### collect.py
+
+- `get_grammy_data()`
+  - Scrapes all years of Grammy award data
+  - Output: 
+      - list of Entry objects for all awards in all categories for all years
+
+### csv_helper.py
+
+- `serialize(array, filename)`
+  - Saves the array to a CSV file
+  - Inputs:
+    - `array`: List of Entry objects
+    - `filename`: name of the CSV file to save
+  - Output:
+    - DATETIMEfilename.csv in DEFAULT_DIRECTORY contains the contents of array
+- `deserialize(filename)`
+  - Loads the contents of filename into an array of Entry objects
+  - Input:
+    - `filename`: a filepath relative to DEFAULT_DIRECTORY
+  - Output:
+    - list of Entry objects
+      
+  
+### filter.py
+
+- `filter_by_categories(array, categories)`
+  - Filter the array by categories
+  - Inputs:
+    - `array`: list of Entry objects
+    - `categories`: list of categories to filter by
+  - Output:
+    - list of Entries for which the category field of each entry is in categories
+- `convert_credits_to_names(array)`
+  - Attempt to convert the credit field of each entry into the artist name
+  - Inputs:
+    - `array`: a list of Entry objects
+  - Output:
+    - same list of Entries, where the credits field of each entry now corresponds to an Artist name
