@@ -1,8 +1,13 @@
 import re
 from csv_helper import deserialize, serialize
 
-def filter_by_category(array, category):
-    return [e for e in array if e.category == category]
+def filter_by_categories(array, categories):
+    """
+    array: a list of Entry objects
+    categories: a list of string categories, e.g. ['Song Of The Year','Record Of The Year']
+    Returns a list of entries with category field in the list of categories
+    """
+    return [e for e in array if e.category in categories]
 
 def _get_artist_name(credits):
     search_items = [',', ' &', ' (']
@@ -14,6 +19,11 @@ def _get_artist_name(credits):
     return credits[0:artist_end]
 
 def convert_credits_to_names(array):
+    """
+    array: list of Entry objects
+    Returns the list of Entry objects, where the credits field has been
+        converted to an array
+    """
     for entry in array:
         entry.credits = _get_artist_name(entry.credits)
     return array
