@@ -1,6 +1,24 @@
 import re
 from csv_helper import deserialize, serialize
 
+def negative_filter_by_categories(array, categories):
+    """
+    array: list of Entries
+    categories: a list of categories to match
+    return: the list of entries with categories not containing a string in the category array
+    """
+    ret = []
+    toAdd = True
+    for e in array:
+        for c in categories:
+            if c in e.category:
+                toAdd = False
+                break
+        if toAdd:
+            ret.append(e)
+        toAdd = True
+    return ret
+
 def filter_by_categories(array, categories):
     """
     array: a list of Entry objects
@@ -28,5 +46,8 @@ def convert_credits_to_names(array):
         entry.credits = _get_artist_name(entry.credits)
     return array
 
-x = deserialize('20170405-213931NAMED.csv')
-print x
+# x = deserialize('GRAMMIES.csv')
+# categories = ['Album','Artist','Producer','Remixer','Video','Package']
+# xx = negative_filter_by_categories(x, categories)
+# xxx = convert_credits_to_names(xx)
+# serialize(xxx,'ALL_SONGS.csv')
