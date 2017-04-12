@@ -9,7 +9,7 @@ def generate_counts(array):
             category_counts[entry.category] = 1
     return category_counts
 
-all_grammies = deserialize('GRAMMIES.csv')
+all_grammies = deserialize('ALL_SONGS.csv')
 not_found=deserialize('NOT_FOUND.csv')
 
 all_counts = generate_counts(all_grammies)

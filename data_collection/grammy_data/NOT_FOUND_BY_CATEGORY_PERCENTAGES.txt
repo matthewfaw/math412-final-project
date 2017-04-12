@@ -1,270 +1,76 @@
 CATEGORY: proportion, # not found / total #
 Best Jazz Performance - Group :  0.0 , 0 / 1
-Best Folk Album :  0.0 , 0 / 5
 Best Rock Vocal Performance By A Duo Or Group :  0.0 , 0 / 1
 Best Country Duo/Group Performance :  0.0 , 0 / 5
-Remixer of the Year, Non-Classical :  0.0 , 0 / 1
-Best Vocal Performance Album, Male :  0.0 , 0 / 2
-Best Tropical Latin Album :  0.0 , 0 / 13
-Best Album Of Original Score Written For A Motion Picture Or Television Special :  0.0 , 0 / 1
-Best Latin Jazz Album :  0.0 , 0 / 15
-Best Contemporary Christian Music Album :  0.0 , 0 / 5
-Best New Age Album :  0.0 , 0 / 25
-Best Music Video-Long Form :  0.0 , 0 / 1
 Best Solo Vocal Performance, Male :  0.0 , 0 / 2
-Best Contemporary R&B Album :  0.0 , 0 / 9
-Best Pop Gospel Album :  0.0 , 0 / 3
 Best Soul Gospel Vocal Performance, Male Or Female :  0.0 , 0 / 1
 Best New Age Recording :  0.0 , 0 / 1
-Classical Album Of The Year :  0.0 , 0 / 2
 Best Instrumental Composition Written For A Motion Picture, Television Or Other Visual Media. :  0.0 , 0 / 1
-Best Regional Mexican Or Tejano Album :  0.0 , 0 / 1
-Best Album Cover, Graphic Arts :  0.0 , 0 / 4
 Best Country & Western Solo Vocal Performance, Male :  0.0 , 0 / 1
-Producer Of The Year :  0.0 , 0 / 10
-Best Contemporary World Music Album :  0.0 , 0 / 8
-Best Contemporary Folk/Americana Album :  0.0 , 0 / 3
-Best Recording Package - Boxed :  0.0 , 0 / 3
-Best Blues Album :  0.0 , 0 / 5
-Best Gospel Album By Choir Or Chorus :  0.0 , 0 / 1
-Best New Classical Artist :  0.0 , 0 / 1
-Album Of The Year -- Classical :  0.0 , 0 / 2
-Best Music Video - Short Form :  0.0 , 0 / 5
-Best Large Jazz Ensemble Album :  0.0 , 0 / 16
 Best Contemporary Vocal Performance, Male :  0.0 , 0 / 2
 Best Hard Rock Performance With Vocal :  0.0 , 0 / 3
-Best Hawaiian Music Album :  0.0 , 0 / 7
-Best Video, Short Form :  0.0 , 0 / 2
-Best Latin Rock Or Alternative Album :  0.0 , 0 / 2
+Best Hard Rock/Metal Performance Vocal Or Instrumental :  0.0 , 0 / 1
 Best Inspirational Performance (Non-Classical) :  0.0 , 0 / 1
 Best Classical Performance - Instrumental Soloist Or Duo (Other Than With Orchestral Accompaniment) :  0.0 , 0 / 1
 Best Pop Vocal Performance By A Group :  0.0 , 0 / 1
-Best Electronic/Dance Album :  0.0 , 0 / 7
-Best Historical Album :  0.0 , 0 / 36
-Best Album Cover - Classical :  0.0 , 0 / 2
 Best Bluegrass Recording :  0.0 , 0 / 2
-Best Traditional Pop Vocal Album :  0.0 , 0 / 16
-Best Traditional World Music Album :  0.0 , 0 / 8
 Best Contemporary Female Solo Vocal Performance :  0.0 , 0 / 1
-Best Latin Rock/Alternative Album :  0.0 , 0 / 6
-Best Engineered Album, Non-Classical :  0.0 , 0 / 16
-Best Engineered Album - Non-Classical :  0.0 , 0 / 9
 Best Tejano Performance :  0.0 , 0 / 1
-Best Spoken Word Album For Children :  0.0 , 0 / 16
-Best Contemporary Folk Album :  0.0 , 0 / 17
-Best Mexican/Mexican-American Album :  0.0 , 0 / 8
 Best Instrumental Jazz Performance - Group Or Soloist With Group :  0.0 , 0 / 1
-Best Performance By A "Top 40" Artist :  0.0 , 0 / 1
-Best Short Form Music Video :  0.0 , 0 / 16
-Best Regional Mexican Music Album (Including Tejano) :  0.0 , 0 / 4
 Best Vocal Performance, Male :  0.0 , 0 / 7
-Producer Of The Year (Non-Classical) :  0.0 , 0 / 10
 Best Country & Western Vocal Performance - Male :  0.0 , 0 / 2
-Best Album Cover - Graphic Arts :  0.0 , 0 / 2
-Best Southern Gospel, Country Gospel Or Bluegrass Gospel Album :  0.0 , 0 / 4
 Best Rhythm & Blues Solo Vocal Performance, Female :  0.0 , 0 / 1
-Best Score Soundtrack Album For A Motion Picture, Television Or Other Visual Media :  0.0 , 0 / 5
-Album Of The Year (Other Than Classical) :  0.0 , 0 / 3
-Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media :  0.0 , 0 / 6
-Best Boxed Recording Package :  0.0 , 0 / 5
-Best Album Notes - Classical :  0.0 , 0 / 5
-Best Contemporary Soul Gospel Album :  0.0 , 0 / 16
 Best Jazz Performance - Soloist Or Small Group (Instrumental) :  0.0 , 0 / 2
-Best Music Video, Short Form :  0.0 , 0 / 5
-Album Of Best Original Score Written For A Motion Picture Or Television Special :  0.0 , 0 / 1
-Best Sound Track Album - Background Score From A Motion Picture Or Television :  0.0 , 0 / 1
-Best Jazz Instrumental Album, Individual or Group :  0.0 , 0 / 11
 Best Contemporary Male Solo Vocal Performance :  0.0 , 0 / 1
-Best Original Cast Show Album :  0.0 , 0 / 2
-Best Americana Album :  0.0 , 0 / 7
 Best Rhythm & Blues Vocal Performance, Female :  0.0 , 0 / 1
-Best Classical Solo Vocal Album :  0.0 , 0 / 2
-Best Musical Cast Show Album :  0.0 , 0 / 5
-Best Sound Track Album Or Recording Of Original Cast From Motion Picture Or Television :  0.0 , 0 / 1
-Best Banda Or Norteño Album :  0.0 , 0 / 1
-Best Sound Track Album, Dramatic Picture Score Or Original Cast :  0.0 , 0 / 1
-Best Album Of Original Score Written For A Motion Picture Or A Television Special :  0.0 , 0 / 7
-Best Salsa/Merengue Album :  0.0 , 0 / 3
-Best Sound Track Album Or Recording Of Music Score From Motion Picture Or Television :  0.0 , 0 / 1
-Best Vocal Performance Album, Female :  0.0 , 0 / 2
 Best American Roots Performance :  0.0 , 0 / 2
 Best Merengue Performance :  0.0 , 0 / 1
-Best Music Video, Long Form :  0.0 , 0 / 6
 Best Rhythm & Blues Vocal Performance, Male :  0.0 , 0 / 1
-Album Of The Year :  0.0 , 0 / 55
-Best Spoken Word Album :  0.0 , 0 / 10
-Best Zydeco Or Cajun Music Album :  0.0 , 0 / 4
 Best Country Vocal Performance, Duet :  0.0 , 0 / 1
 Best Rhythm & Blues Solo Vocal Performance, Male :  0.0 , 0 / 1
-Best Regional Mexican Album :  0.0 , 0 / 3
-Best Hard Rock/Metal Performance Vocal Or Instrumental :  0.0 , 0 / 1
-Best Spoken Comedy Album :  0.0 , 0 / 10
-Producer Of The Year (Non Classical) :  0.0 , 0 / 1
-Best Latin Urban Album :  0.0 , 0 / 2
 Best Bluegrass Recording (Vocal Or Instrumental) :  0.0 , 0 / 1
-Best Roots Gospel Album :  0.0 , 0 / 2
-Best Mexican-American Album :  0.0 , 0 / 3
-Best Musical Show Album :  0.0 , 0 / 20
-Best Album Created For Children :  0.0 , 0 / 1
-Best Cast Show Album :  0.0 , 0 / 11
 Best Pop Instrumental Performance, (Orchestra, Group Or Soloist) :  0.0 , 0 / 1
-Best Sound Track Album, Original Cast - Motion Picture Or Television :  0.0 , 0 / 1
-Best Rock Gospel Album :  0.0 , 0 / 13
-Best Traditional Tropical Latin Album :  0.0 , 0 / 6
 Best Rock Vocal Performance, Female :  0.0 , 0 / 12
-Best Contemporary Album :  0.0 , 0 / 1
-Best Album Package :  0.0 , 0 / 20
-Best Southern, Country, or Bluegrass Gospel Album :  0.0 , 0 / 6
+Best Pop Instrumental Performance By An Arranger, Composer, Orchestra And/Or Choral Leader :  0.0 , 0 / 2
 Best Instrumental Performance - Non-Jazz :  0.0 , 0 / 1
-Best Album Cover - Other Than Classical :  0.0 , 0 / 4
-Best Sound Track Album Or Recording Of Original Cast From A Motion Picture Or Television :  0.0 , 0 / 1
-Best Album For Children :  0.0 , 0 / 2
 Best Country Performance Duo Or Group :  0.0 , 0 / 1
-Best Album Of Original Instrumental Background Score Written For A Motion Picture Or Television :  0.0 , 0 / 2
-Best Contemporary Jazz Album :  0.0 , 0 / 11
 Best Jazz Performance - Soloist :  0.0 , 0 / 1
-Best Reggae Album :  0.0 , 0 / 25
 Best Hard Rock/Metal Performance :  0.0 , 0 / 2
-Best Surround Sound Album :  0.0 , 0 / 12
-Best Musical Theater Album :  0.0 , 0 / 5
-Album Of Best Original Score Written For A Motion Picture Or A Television Special :  0.0 , 0 / 3
-Best Polka Album :  0.0 , 0 / 18
-Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling) :  0.0 , 0 / 7
 Best Traditional Tropical Latin Performance :  0.0 , 0 / 1
-Best Historical Reissue Album :  0.0 , 0 / 1
-Best Traditional Blues Album :  0.0 , 0 / 20
-Remixer Of The Year, Non-classical :  0.0 , 0 / 1
 Best Jazz Performance, Individual :  0.0 , 0 / 1
-Best Score From The Original Cast Show Album :  0.0 , 0 / 2
-Best Traditional Soul Gospel Album :  0.0 , 0 / 15
-Video Of The Year :  0.0 , 0 / 2
-Best Music Video - Long Form :  0.0 , 0 / 3
-Best Regional Roots Music Album :  0.0 , 0 / 5
 Best Classical Composition By A Contemporary Composer :  0.0 , 0 / 1
-Most Promising New Classical Recording Artist :  0.0 , 0 / 3
-Best Jazz Vocal Album :  0.0 , 0 / 16
 Best Metal Performance With Vocal :  0.0 , 0 / 1
 Best Song Written For A Motion Picture Or For Television :  0.0 , 0 / 1
-Best Soundtrack Album :  0.0 , 0 / 1
 Best Jazz Performance - Large Group Or Soloist With Large Group :  0.0 , 0 / 1
-Best Dance/Electronic Album :  0.0 , 0 / 2
-Best Show Album (Original Cast) :  0.0 , 0 / 1
-Best Engineered Album, Classical :  0.0 , 0 / 20
 Best Composition By A Contemporary Classical Composer :  0.0 , 0 / 1
 Best Disco Recording :  0.0 , 0 / 1
 Best Country Vocal Solo Performance, Male :  0.0 , 0 / 1
-Best Gospel Album :  0.0 , 0 / 5
-Best Banda Album :  0.0 , 0 / 5
-Best Spoken Word Album for Children :  0.0 , 0 / 2
-Album Of The Year, Classical :  0.0 , 0 / 8
-Best Rock Album :  0.0 , 0 / 22
-Best Alternative Music Album :  0.0 , 0 / 19
-Best Latin Rock, Alternative Or Urban Album :  0.0 , 0 / 3
-Best Gospel Choir Or Chorus Album :  0.0 , 0 / 9
-Best Tejano Album :  0.0 , 0 / 11
-Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling) :  0.0 , 0 / 3
-Best Traditional Gospel Album :  0.0 , 0 / 5
-Best Classical Crossover Album :  0.0 , 0 / 13
 Best Male Rap Solo Performance :  0.0 , 0 / 2
-Best Album Or Original Instrumental Background Score Written For A Motion Picture Or Television :  0.0 , 0 / 1
 Best Instrumental Composition (Other Than Jazz) :  0.0 , 0 / 1
-Best Long Form Music Video :  0.0 , 0 / 16
-Best Rock/Contemporary Gospel Album :  0.0 , 0 / 3
-Best Southern Gospel Album :  0.0 , 0 / 3
-Best Traditional Folk Album :  0.0 , 0 / 20
-Best Score From An Original Cast Show Album :  0.0 , 0 / 10
-Best R&B Album :  0.0 , 0 / 22
-Best Merengue Album :  0.0 , 0 / 3
 Best Contemporary Vocal Performance By A Duo, Group Or Chorus :  0.0 , 0 / 1
-Producer Of The Year, Non-Classical :  0.0 , 0 / 19
-Best Performance Music Video :  0.0 , 0 / 2
-Best Compilation Soundtrack Album For A Motion Picture, Television Or Other Visual Media :  0.0 , 0 / 5
-Producer Of The Year, (Non Classical) :  0.0 , 0 / 1
-Best Musical Album For Children :  0.0 , 0 / 18
 Best Contemporary Pop Performance, Instrumental :  0.0 , 0 / 1
-Best Southern, Country Or Bluegrass Gospel Album :  0.0 , 0 / 1
-Best Dance/Electronica Album :  0.0 , 0 / 3
-Best Comedy Album :  0.0 , 0 / 15
-Album Of The Year - Classical :  0.0 , 0 / 3
 Best Pop Instrumental Recording :  0.0 , 0 / 1
-Best Video Album :  0.0 , 0 / 2
-Best Latin Rock, Urban or Alternative Album :  0.0 , 0 / 5
 Best Gospel Performance/Song :  0.0 , 0 / 2
-Remixer Of The Year, Non-Classical :  0.0 , 0 / 2
-Best Performance By A Pop Single Artist :  0.0 , 0 / 1
-Best New Artist :  0.0 , 0 / 40
-Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media :  0.0 , 0 / 6
-Best Music Video :  0.0 , 0 / 3
 Best Gospel Vocal Performance By A Duo, Group, Choir Or Chorus :  0.0 , 0 / 1
-Best Pop Album :  0.0 , 0 / 6
 Best Jazz Performance By A Soloist (Instrumental) :  0.0 , 0 / 1
 Best Arrangement For Voices (Duo, Group Or Chorus) :  0.0 , 0 / 1
-Best New Artist Of 1959 :  0.0 , 0 / 1
 Best Musical Composition First Recorded And Released In 1959 (More Than 5 Minutes Duration) :  0.0 , 0 / 1
 Best Composition By A Contemporary Composer :  0.0 , 0 / 1
-Best Jazz Instrumental Album :  0.0 , 0 / 5
-Best Concept Music Video :  0.0 , 0 / 2
 Best New Classical Composition :  0.0 , 0 / 1
 Best Pop Vocal Collaboration :  0.0 , 0 / 1
-Best Album Notes, Classical :  0.0 , 0 / 2
-Best Original Cast Album (Broadway Or TV) :  0.0 , 0 / 1
-Producer Of The Year, Classical :  0.0 , 0 / 19
-Best Bluegrass Album :  0.0 , 0 / 25
-Best Historical Repackage Album :  0.0 , 0 / 1
 Best Jazz Performance, Group :  0.0 , 0 / 1
 Best Traditional Soul Gospel Performance :  0.0 , 0 / 1
-Best Classical Album :  0.0 , 0 / 35
 Best Country & Western Solo Vocal Performance, Female :  0.0 , 0 / 1
 Best Country & Western Recording :  0.0 , 0 / 5
-Best Spoken Word Or Non-Musical Album :  0.0 , 0 / 6
-Best Native American Music Album :  0.0 , 0 / 11
 Best Instrumental Jazz Performance - Soloist Or Small Group :  0.0 , 0 / 1
-Best Album Notes (Classical) :  0.0 , 0 / 2
-Best Salsa Album :  0.0 , 0 / 3
-Best Country Album :  0.0 , 0 / 22
-Best Rock Or Rap Gospel Album :  0.0 , 0 / 5
-Best Recording Package :  0.0 , 0 / 23
-Best Children's Album :  0.0 , 0 / 5
-Best New Artist Of The Year :  0.0 , 0 / 9
-Best Producer Of The Year :  0.0 , 0 / 3
-Best Latin Pop, Rock, Or Urban Album :  0.0 , 0 / 1
 Best Female Rap Solo Performance :  0.0 , 0 / 2
-Best Broadway Show Album :  0.0 , 0 / 2
-Best Country & Western Album :  0.0 , 0 / 2
-Best World Music Album :  0.0 , 0 / 18
-Best Pop Vocal Album :  0.0 , 0 / 16
-Best Pop Instrumental Album :  0.0 , 0 / 14
-Best Pop/Contemporary Gospel Album :  0.0 , 0 / 18
 Best Country & Western Vocal Performance, Male :  0.0 , 0 / 1
-Best Traditional R&B Vocal Album :  0.0 , 0 / 2
-Best Urban Contemporary Album :  0.0 , 0 / 4
-Classical Producer Of The Year :  0.0 , 0 / 18
 Best Contemporary Pop Vocal Performance, Female :  0.0 , 0 / 1
-Best Sound Track Album Or Recording Of Score From Motion Picture Or Television :  0.0 , 0 / 1
-Best New Country & Western Artist :  0.0 , 0 / 2
-Best Gospel Album By A Choir Or Chorus :  0.0 , 0 / 7
-Best Contemporary Instrumental Album :  0.0 , 0 / 2
-Best Rap Album :  0.0 , 0 / 21
 Best Rock Vocal Performance, Solo :  0.0 , 0 / 3
 Best Alternative Music Performance :  0.0 , 0 / 7
-Best New Artist Of 1964 :  0.0 , 0 / 1
-Best New Artist Of 1963 :  0.0 , 0 / 1
-Best New Artist Of 1962 :  0.0 , 0 / 1
-Best New Artist Of 1961 :  0.0 , 0 / 1
-Best New Artist Of 1960 :  0.0 , 0 / 1
-Best Contemporary Blues Album :  0.0 , 0 / 20
-Best Boxed Or Special Limited Edition Package :  0.0 , 0 / 14
-Best Southern, Country, Or Bluegrass Gospel Album :  0.0 , 0 / 7
 Best Pop Vocal Performance By A Duo Or Group :  0.0 , 0 / 2
-Best Album Notes :  0.0 , 0 / 50
-Best Latin Pop Album :  0.0 , 0 / 19
-Best Pop Instrumental Performance By An Arranger, Composer, Orchestra And/Or Choral Leader :  0.0 , 0 / 2
 Best Contemporary Vocal Performance, Female :  0.0 , 0 / 2
 Best Mexican-American Music Performance :  0.0 , 0 / 1
-Best Contemporary R&B Gospel Album :  0.0 , 0 / 5
-Best Album Cover :  0.0 , 0 / 10
-Best New Country & Western Artist Of 1964 :  0.0 , 0 / 2
-Best Norteño Album :  0.0 , 0 / 5
 Best Pop Vocal Performance, Female :  0.0434782608696 , 1 / 23
 Best Country Vocal Performance, Male :  0.08 , 2 / 25
 Best Contemporary Composition :  0.1 , 1 / 10
@@ -276,23 +82,23 @@ Best Solo Rock Vocal Performance :  0.142857142857 , 1 / 7
 Best Country Vocal Performance, Female :  0.153846153846 , 4 / 26
 Best Rock Vocal Performance, Male :  0.166666666667 , 2 / 12
 Best Female Pop Vocal Performance :  0.176470588235 , 3 / 17
-Best Pop Solo Performance :  0.2 , 1 / 5
 Best Female Rock Vocal Performance :  0.2 , 2 / 10
 Best Rock Performance :  0.2 , 1 / 5
 Best Mexican-American Performance :  0.2 , 2 / 10
+Best Pop Solo Performance :  0.2 , 1 / 5
 Best Country Solo Performance :  0.2 , 1 / 5
 Best Rap Solo Performance :  0.210526315789 , 4 / 19
 Best Tropical Latin Performance :  0.214285714286 , 3 / 14
 Best Classical Contemporary Composition :  0.235294117647 , 4 / 17
 Best Rock Performance By A Duo Or Group With Vocals :  0.25 , 1 / 4
-Best Country & Western Song :  0.25 , 1 / 4
-Best Contemporary (R&R) Performance - Group (Vocal Or Instrumental) :  0.25 , 1 / 4
 Best Country Instrumental Performance (Orchestra, Group Or Soloist) :  0.25 , 1 / 4
 Best Pop Performance By A Duo Or Group With Vocals :  0.25 , 1 / 4
+Best Contemporary (R&R) Performance - Group (Vocal Or Instrumental) :  0.25 , 1 / 4
+Best Country & Western Song :  0.25 , 1 / 4
 Best R&B Vocal Performance, Male :  0.28 , 7 / 25
+Best Female R&B Vocal Performance :  0.294117647059 , 5 / 17
 Best Female Country Vocal Performance :  0.294117647059 , 5 / 17
 Best Male R&B Vocal Performance :  0.294117647059 , 5 / 17
-Best Female R&B Vocal Performance :  0.294117647059 , 5 / 17
 Best R&B Vocal Performance, Female :  0.307692307692 , 8 / 26
 Record Of The Year :  0.310344827586 , 18 / 58
 Best Dance Recording :  0.315789473684 , 6 / 19
@@ -327,13 +133,15 @@ Best Inspirational Performance :  0.461538461538 , 6 / 13
 Best Rock Song :  0.48 , 12 / 25
 Best Performance By A Dance Band :  0.5 , 1 / 2
 Best Contemporary Christian Music Performance/Song :  0.5 , 1 / 2
-Best Performance - Folk :  0.5 , 1 / 2
+Best Instrumental Jazz Performance, Large Group Or Soloist With Large Group :  0.5 , 1 / 2
+Best Rock & Roll Recording :  0.5 , 2 / 4
 Best Performance By An Orchestra - For Other Than Dancing :  0.5 , 1 / 2
 Best Solo Vocal Performance, Female :  0.5 , 1 / 2
 Best Arrangement :  0.5 , 2 / 4
 Best Gospel Performance By A Duo Or Group :  0.5 , 1 / 2
 Best Original Score Written For A Motion Picture Or A Television Special :  0.5 , 3 / 6
 Best New Age Performance :  0.5 , 2 / 4
+Best Performance - Folk :  0.5 , 1 / 2
 Best Jazz Fusion Performance, Vocal Or Instrumental :  0.5 , 4 / 8
 Best Country Performance By A Duo Or Group With Vocals :  0.5 , 2 / 4
 Best Contemporary Song :  0.5 , 1 / 2
@@ -345,16 +153,14 @@ Best Traditional Pop Vocal Performance :  0.5 , 4 / 8
 Best Performance By A Vocal Group Or Chorus :  0.5 , 1 / 2
 Best Jazz Instrumental Performance, Individual Or Group :  0.5 , 4 / 8
 Best Gospel Or Other Religious Recording :  0.5 , 1 / 2
-Best Jazz Performance By A Soloist :  0.5 , 3 / 6
-Best Rock & Roll Recording :  0.5 , 2 / 4
 Best Jazz Performance - Large Group (Instrumental) :  0.5 , 1 / 2
 Best Documentary Or Spoken Word Recording (Other Than Comedy) :  0.5 , 1 / 2
 Best Pop Performance By A Duo Or Group With Vocal :  0.5 , 13 / 26
 Best Contemporary Instrumental Performance :  0.5 , 1 / 2
 Best Comedy Performance (Musical) :  0.5 , 1 / 2
 Best Contemporary Jazz Performance (Instrumental) :  0.5 , 1 / 2
+Best Jazz Performance By A Soloist :  0.5 , 3 / 6
 Best Comedy Performance - Musical :  0.5 , 1 / 2
-Best Instrumental Jazz Performance, Large Group Or Soloist With Large Group :  0.5 , 1 / 2
 Best Instrumental Composition :  0.510638297872 , 24 / 47
 Best Rap Performance By A Duo Or Group :  0.52380952381 , 11 / 21
 Best Rhythm & Blues Song :  0.53125 , 17 / 32
@@ -377,9 +183,8 @@ Best Traditional R&B Vocal Performance :  0.636363636364 , 7 / 11
 Best Jazz Instrumental Performance, Group :  0.642857142857 , 9 / 14
 Best Country Performance By A Duo Or Group With Vocal :  0.653846153846 , 17 / 26
 Best Jazz Fusion Performance :  0.666666666667 , 2 / 3
-Best Instrumental Jazz Performance - Large Group Or Soloist With Large Group :  0.666666666667 , 2 / 3
-Best Gospel Performance, Male :  0.666666666667 , 4 / 6
 Best Traditional Blues Recording :  0.666666666667 , 6 / 9
+Best Instrumental Jazz Performance - Large Group Or Soloist With Large Group :  0.666666666667 , 2 / 3
 Best Classical Performance - Choral (Other Than Opera) :  0.666666666667 , 2 / 3
 Best Contemporary (R&R) Group Performance, Vocal Or Instrumental :  0.666666666667 , 2 / 3
 Best Gospel Or Other Religious Recording (Musical) :  0.666666666667 , 2 / 3
@@ -392,6 +197,7 @@ Best Soul Gospel Performance, Contemporary :  0.666666666667 , 4 / 6
 Best Instrumental Theme :  0.666666666667 , 4 / 6
 Best Soul Gospel Performance, Traditional :  0.666666666667 , 4 / 6
 Best Folk Recording :  0.666666666667 , 4 / 6
+Best Gospel Performance, Male :  0.666666666667 , 4 / 6
 Best Song Written For Motion Picture, Television Or Other Visual Media :  0.666666666667 , 4 / 6
 Best Pop Instrumental Performance :  0.676470588235 , 23 / 34
 Best R&B Song :  0.6875 , 11 / 16
@@ -403,11 +209,11 @@ Best Country Song :  0.723404255319 , 34 / 47
 Best Gospel Performance :  0.727272727273 , 8 / 11
 Best Country Collaboration With Vocals :  0.75 , 12 / 16
 Best Contemporary Christian Music Song :  0.75 , 3 / 4
+Best Chamber Music/Small Ensemble Performance :  0.75 , 3 / 4
 Best Gospel Performance By A Duo Or Group, Choir Or Chorus :  0.75 , 3 / 4
 Best Small Ensemble Performance (With Or Without Conductor) :  0.75 , 3 / 4
-Best Rock Instrumental Performance :  0.75 , 21 / 28
-Best Chamber Music/Small Ensemble Performance :  0.75 , 3 / 4
 Best Performance By An Orchestra Or Instrumentalist With Orchestra - Primarily Not Jazz Or For Dancing :  0.75 , 3 / 4
+Best Rock Instrumental Performance :  0.75 , 21 / 28
 Best R&B Instrumental Performance (Orchestra, Group Or Soloist) :  0.75 , 3 / 4
 Best Pop Collaboration With Vocals :  0.75 , 12 / 16
 Best Instrumental Arrangement :  0.769230769231 , 30 / 39
@@ -417,8 +223,8 @@ Best Compilation Soundtrack For Visual Media :  0.8 , 4 / 5
 Best Vocal Arrangement For Two Or More Voices :  0.8 , 4 / 5
 Best Arrangement Accompanying Vocalist(s) :  0.8 , 8 / 10
 Best Arrangement On An Instrumental :  0.818181818182 , 9 / 11
-Best Latin Jazz Performance :  0.833333333333 , 5 / 6
 Best Small Ensemble Performance (with or without Conductor) :  0.833333333333 , 5 / 6
+Best Latin Jazz Performance :  0.833333333333 , 5 / 6
 Best Soul Gospel Performance, Female :  0.833333333333 , 5 / 6
 Best Gospel Performance, Female :  0.833333333333 , 5 / 6
 Best Original Jazz Composition :  0.833333333333 , 5 / 6
@@ -426,12 +232,12 @@ Best Rap Song :  0.846153846154 , 11 / 13
 Best Improvised Jazz Solo :  0.857142857143 , 6 / 7
 Best Latin Recording :  0.875 , 7 / 8
 Best Spoken Word Or Non-Musical Recording :  0.875 , 7 / 8
-Best Song Written Specifically For A Motion Picture Or For Television :  0.875 , 7 / 8
 Best R&B Vocal Performance By A Duo, Group Or Chorus :  0.875 , 7 / 8
+Best Song Written Specifically For A Motion Picture Or For Television :  0.875 , 7 / 8
 Best Choral Performance, Classical (Other Than Opera) :  0.875 , 7 / 8
+Best Spoken Word Recording :  0.909090909091 , 10 / 11
 Best Instrumental Soloist Performance (without Orchestra) :  0.909090909091 , 10 / 11
 Best Instrumental Soloist(s) Performance (with Orchestra) :  0.909090909091 , 10 / 11
-Best Spoken Word Recording :  0.909090909091 , 10 / 11
 Best Instrumental Arrangement Accompanying Vocal(s) :  0.923076923077 , 12 / 13
 Best Instrumental Arrangement Accompanying Vocalist(s) :  0.928571428571 , 13 / 14
 Best Classical Performance - Orchestra :  0.933333333333 , 14 / 15
@@ -443,14 +249,16 @@ Best Engineered Recording, Classical :  1.0 , 21 / 21
 Best Contemporary Group Performance (Vocal Or Instrumental) :  1.0 , 1 / 1
 Best Small Ensemble Performance :  1.0 , 6 / 6
 Best Choral Performance (Other Than Opera) :  1.0 , 15 / 15
+Best Classical Performance, Instrumental Soloist Or Soloists (With Orchestra) :  1.0 , 1 / 1
 Best Classical Performance - Chamber Music :  1.0 , 3 / 3
 Best Rhythm & Blues Solo Vocal Performance, Male Or Female :  1.0 , 1 / 1
 Best Instrumental Arrangement Accompanying A Vocalist(s) :  1.0 , 1 / 1
 Best Instrumental Soloist(s) Performance (With Orchestra) :  1.0 , 5 / 5
 Best Performance - Instrumental Soloist Or Soloists (Without Orchestra) :  1.0 , 1 / 1
+Best Gospel Performance, Contemporary Or Insprirational :  1.0 , 1 / 1
 Best Instrumental Arrangement With Accompanying Vocal(s) :  1.0 , 2 / 2
 Best Contemporary Pop Performance - Vocal Duo Or Group :  1.0 , 1 / 1
-Best Jazz Vocal Performance Duo Or Group :  1.0 , 1 / 1
+Best Traditional Pop Performance :  1.0 , 1 / 1
 Best Accompaniment Arrangement For Vocalist(s) Or Instrumentalist(s) :  1.0 , 1 / 1
 Best Classical Opera Production :  1.0 , 1 / 1
 Best Classical Performance Instrumental Soloist Or Soloists (With Orchestra) :  1.0 , 4 / 4
@@ -460,27 +268,25 @@ Best Classical Performance - Instrumental Solo Without Orchestra :  1.0 , 1 / 1
 Best Classical Performance-Instrumental Soloist (Without Orchestra) :  1.0 , 1 / 1
 Best Jazz Performance Solo Or Small Group :  1.0 , 1 / 1
 Best Polka Recording :  1.0 , 7 / 7
-Best Classical Performance, Instrumental Soloist Or Soloists (With Orchestra) :  1.0 , 1 / 1
 Best Original Score From A Motion Picture Or Television Show :  1.0 , 1 / 1
 Best Jazz Instrumental Performance, Soloist (On A Jazz Recording) :  1.0 , 1 / 1
 Best Jazz Instrumental Performance Soloist (On A Jazz Recording) :  1.0 , 1 / 1
 Best Gospel Performance, Contemporary :  1.0 , 1 / 1
 Best Classical Performance - Operatic Or Choral :  1.0 , 1 / 1
-Best Classical Performance-Instrumental Soloist(s) (With Orchestra) :  1.0 , 1 / 1
 Best Spoken Word, Documentary Or Drama :  1.0 , 1 / 1
 Best Pop Vocal Performance By A Duo Or Group With Vocal :  1.0 , 1 / 1
 Best Gospel Performance, Traditional :  1.0 , 6 / 6
-Best Traditional Pop Performance :  1.0 , 1 / 1
+Best Jazz Vocal Performance Duo Or Group :  1.0 , 1 / 1
+Best Performance - Instrumental Soloist Or Soloists (With Or Without Orchestra) :  1.0 , 1 / 1
 Best Vocal Soloist Performance, Classical :  1.0 , 1 / 1
 Best Instrumental Performance, Non-Jazz :  1.0 , 1 / 1
 Best Choral Performance - Classical :  1.0 , 1 / 1
 Best Classical Performance, Instrumental Soloist(s) (Without Orchestra) :  1.0 , 1 / 1
-Best Gospel Vocal Performance, Male :  1.0 , 1 / 1
 Best Historical Reissue :  1.0 , 1 / 1
 Best Arrangement Accompanying Vocals :  1.0 , 1 / 1
 Best Arrangement, Instrumental or A Cappella :  1.0 , 2 / 2
 Best Classical Orchestral Performance :  1.0 , 3 / 3
-Best Classical Chamber Music Performance - Instrumental Or Vocal :  1.0 , 1 / 1
+Best Classical Performance - Concerto Or Instrumental Soloist :  1.0 , 1 / 1
 Best Classical Performance - Chamber Music (Including Chamber Orchestra) :  1.0 , 2 / 2
 Best Classical Performance Instrumental Solo Without Orchestra :  1.0 , 1 / 1
 Best Country Performance, Duo Or Group - Vocal Or Instrumental :  1.0 , 1 / 1
@@ -489,6 +295,7 @@ Best Classical Performance - Vocal Soloist :  1.0 , 1 / 1
 Best Instrumental Soloist Performance (With Orchestra) :  1.0 , 1 / 1
 Best Rhythm & Blues Performance By A Duo Or Group, Vocal Or Instrumental :  1.0 , 1 / 1
 Best Ethnic Or Traditional Recording (Including Traditional Blues) :  1.0 , 3 / 3
+Best Contemporary Blues Recording :  1.0 , 4 / 4
 Best Musical Composition First Recorded And Released In 1958 (Over 5 Minutes Duration) :  1.0 , 1 / 1
 Best Orchestral Performance :  1.0 , 28 / 28
 Best Classical Orchestral Recording :  1.0 , 6 / 6
@@ -521,12 +328,9 @@ Best Instrumental Arrangement With Accompanying Vocals :  1.0 , 1 / 1
 Best Classical Vocal Soloist :  1.0 , 1 / 1
 Best Engineering Contribution - Other Than Classical Or Novelty :  1.0 , 2 / 2
 Best Original Score Written For A Motion Picture Or A Television Show :  1.0 , 1 / 1
-Best Contemporary Pop Vocal Performance, Male :  1.0 , 1 / 1
 Best Chamber Music Performance - Instrumental Or Vocal :  1.0 , 1 / 1
-Best Soul Gospel Performance By A Duo Or Group :  1.0 , 2 / 2
 Best Classical Performance - Instrumental Soloist(s) (Without Orchestra) :  1.0 , 2 / 2
 Best Instrumental Arrangement Accompanying Vocals :  1.0 , 2 / 2
-Best Classical Performance - Concerto Or Instrumental Soloist :  1.0 , 1 / 1
 Best Classical Performance, Instrumental Soloist (Without Orchestra) :  1.0 , 2 / 2
 Best Song Written For A Motion Picture, Television Or Other Visual Media :  1.0 , 4 / 4
 Best Performance By A Chorus (7 Or More Persons) :  1.0 , 2 / 2
@@ -534,19 +338,21 @@ Best Gospel Vocal Performance, Female :  1.0 , 1 / 1
 Best Sacred Recording (Musical) :  1.0 , 1 / 1
 Best Classical Performance - Instrumental Soloist Or Duo (Without Orchestra) :  1.0 , 3 / 3
 Best Engineered Recording - Non-Classical :  1.0 , 24 / 24
+Best Classical Performance - Instrumentalist (With Concerto Scale Accompaniment) :  1.0 , 1 / 1
+Best Classical Chamber Music Performance - Instrumental Or Vocal :  1.0 , 1 / 1
 Best Performance By A Chorus :  1.0 , 14 / 14
 Best Engineered Recording (Classical) :  1.0 , 1 / 1
 Best Jazz Instrumental Performance, Big Band :  1.0 , 13 / 13
 Best Classical Performance - Instrumental Soloist (With Orchestra) :  1.0 , 1 / 1
 Best New Country Song :  1.0 , 1 / 1
 Best Contemporary Vocal Performance By A Group :  1.0 , 1 / 1
-Best Classical Performance - Instrumental Soloist OR Soloists (With Orchestra) :  1.0 , 2 / 2
 Best Sacred Performance (Musical) :  1.0 , 1 / 1
+Best Classical Performance - Instrumental Soloist OR Soloists (With Orchestra) :  1.0 , 2 / 2
 Best Performance Of A Choral Work :  1.0 , 3 / 3
 Best Chamber Music Performance :  1.0 , 43 / 43
-Best Engineered Recording - Non Classical :  1.0 , 1 / 1
+Best Classical Performance - Instrumental Soloist Or Soloists (Without Orchestra) :  1.0 , 9 / 9
 Best Country & Western Performance Duet, Trio Or Group (Vocal Or Instrumental) :  1.0 , 1 / 1
-Best Contemporary Blues Recording :  1.0 , 4 / 4
+Best Instrumental Theme Or Instrumental Version Of Song :  1.0 , 1 / 1
 Best Chamber Music Performance - Vocal :  1.0 , 2 / 2
 Best Classical Performance - Concerto Or Instrumental Soloist (With Full Orchestral Accompaniment) :  1.0 , 1 / 1
 Best Performance - Orchestra :  1.0 , 1 / 1
@@ -559,8 +365,10 @@ Best Contemporary Single :  1.0 , 1 / 1
 Best Classical Vocal Soloist Performance (With Or Without Orchestra) :  1.0 , 1 / 1
 Best Engineering Contribution - Novelty Recording :  1.0 , 2 / 2
 Best Arrangement Accompanying A Vocalist Or Instrumentalist :  1.0 , 3 / 3
-Best Classical Performance - Instrumentalist (With Concerto Scale Accompaniment) :  1.0 , 1 / 1
+Best Classical Performance-Instrumental Soloist(s) (With Orchestra) :  1.0 , 1 / 1
 Best Vocal Soloist Performance (With Or Without Orchestra) :  1.0 , 1 / 1
+Best Gospel Vocal Performance, Male :  1.0 , 1 / 1
+Best Instrumental Jazz Performance, Small Group Or Soloist With Small Group :  1.0 , 2 / 2
 Best Arrangement Accompanying Vocalists :  1.0 , 1 / 1
 Best Spoken Word, Documentary Or Drama Recording :  1.0 , 5 / 5
 Best Original Score Written For A Motion Picture Or Television Show :  1.0 , 3 / 3
@@ -569,7 +377,7 @@ Best Jazz Fusion Performance, Vocal Or Istrumental :  1.0 , 1 / 1
 Best Documentary, Spoken Word Or Drama Recording (Other Than Comedy) :  1.0 , 2 / 2
 Best Performance - Documentary Or Spoken Word (Other Than Comedy) :  1.0 , 2 / 2
 Best Classical Performance - Opera Cast Or Choral :  1.0 , 1 / 1
-Best Classical Performance - Instrumental Soloist Or Soloists (Without Orchestra) :  1.0 , 9 / 9
+Best Engineered Recording - Non Classical :  1.0 , 1 / 1
 Best Gospel Performance (Other Than Soul Gospel) :  1.0 , 7 / 7
 Best Arrangement Accompanying Vocal(s) :  1.0 , 1 / 1
 Best Classical Performance - Choral (Including Oratorio) :  1.0 , 1 / 1
@@ -578,12 +386,11 @@ Best Classical Performance - Instrumentalist (Other Than Concerto-Scale Accompan
 Best Engineering Contribution - Novelty :  1.0 , 4 / 4
 Best Instrumental Performance (Other Than Jazz) :  1.0 , 1 / 1
 Best Classical Performance - Concerto Or Instrumental Soloist (Other Than Full Orchestral Accompaniment) :  1.0 , 1 / 1
+Best Soul Gospel Vocal Performance Duo, Group, Choir Or Chorus :  1.0 , 1 / 1
 Best R&B Vocal Performance By A Duo Or Group :  1.0 , 1 / 1
 Best Classical Compendium :  1.0 , 4 / 4
 Best Soul Gospel Performance :  1.0 , 9 / 9
-Best Gospel Performance, Contemporary Or Insprirational :  1.0 , 1 / 1
 Best Instrumental Jazz Performance - Large Group :  1.0 , 1 / 1
-Best Instrumental Theme Or Instrumental Version Of Song :  1.0 , 1 / 1
 Best Music Film :  1.0 , 4 / 4
 Best Classical Instrumental Solo :  1.0 , 5 / 5
 Best Contemporary Pop Performance, Chorus :  1.0 , 1 / 1
@@ -594,14 +401,13 @@ Best Chamber Music Or Other Small Ensemble Performance :  1.0 , 1 / 1
 Best Classical Performance - Instrumental Soloist Or Soloists (With Orchestra) :  1.0 , 10 / 10
 Best Engineered Recording - Classical :  1.0 , 9 / 9
 Best Engineered Record (Classical) :  1.0 , 1 / 1
-Best Soul Gospel Vocal Performance Duo, Group, Choir Or Chorus :  1.0 , 1 / 1
+Best Soul Gospel Performance By A Duo Or Group :  1.0 , 2 / 2
 Best Engineering Contribution - Classical Recording :  1.0 , 3 / 3
 Best Instrumental Soloist With Orchestra :  1.0 , 1 / 1
 Best Classical Engineered Recording :  1.0 , 3 / 3
 Best Instrumental Soloist Performance Without Orchestra :  1.0 , 1 / 1
-Best Performance - Instrumental Soloist Or Soloists (With Or Without Orchestra) :  1.0 , 1 / 1
-Best Instrumental Jazz Performance, Small Group Or Soloist With Small Group :  1.0 , 2 / 2
 Best Classical Vocal Performance :  1.0 , 20 / 20
+Best Contemporary Pop Vocal Performance, Male :  1.0 , 1 / 1
 Best Jazz Performance Large Group :  1.0 , 1 / 1
 Best Jazz Composition Of More Than Five Minutes Duration :  1.0 , 1 / 1
 Best Engineered Record - Non-Classical :  1.0 , 1 / 1
