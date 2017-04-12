@@ -23,8 +23,10 @@ def vectorize_song(song_id):
 	sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 	sp.trace=True
 	features = sp.audio_features([song_id])
+	print json.dumps(features, indent=4)
 	dict = features[0]
-	return [dict['energy'], dict['liveness'], dict['tempo'], dict['speechiness'], dict['acousticness'], dict['instrumentalness'], dict['time_signature'], dict['danceability'], dict['key'], dict['duration_ms'], dict['loudness'], dict['valence']]
+	return [dict['acousticness'], dict['danceability'], dict['energy'], dict['instrumentalness'], dict['liveness'], dict['speechiness'], dict['valence']]
+	#return [dict['energy'], dict['liveness'], dict['tempo'], dict['speechiness'], dict['acousticness'], dict['instrumentalness'], dict['time_signature'], dict['danceability'], dict['key'], dict['duration_ms'], dict['loudness'], dict['valence']]
 
 def spotify_query(song_name, artist_name):
 	song_id = get_spotify_id(song_name, artist_name)
@@ -41,4 +43,4 @@ else:
 	artist_name = 'green day'
 
 #id = get_spotify_id(song_name, artist_name)
-#spotify_query(song_name, artist_name)
+print spotify_query(song_name, artist_name)
