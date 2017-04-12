@@ -35,12 +35,12 @@ def spotify_query(song_name, artist_name):
                 return 'Song Name: ' + song_name + '\nArist Name:' + artist_name
 	return vectorize_song(song_id)
 
-if len(sys.argv) > 2:
-	song_name = sys.argv[1]
-	artist_name = sys.argv[2]
-else:
-	song_name = 'wake me up when september ends'
-	artist_name = 'green day'
+# if len(sys.argv) > 2:
+	# song_name = sys.argv[1]
+	# artist_name = sys.argv[2]
+# else:
+	# song_name = 'wake me up when september ends'
+	# artist_name = 'green day'
 
 #id = get_spotify_id(song_name, artist_name)
-print spotify_query(song_name, artist_name)
+print spotify_query('uptown funk', 'Mark Ronson, Bruno Mars')

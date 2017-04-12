@@ -46,9 +46,8 @@ def convert_credits_to_names(array):
         entry.credits = _get_artist_name(entry.credits)
     return array
 
-x = deserialize('GRAMMIES.csv')
-xx = filter_by_categories(x, ['Record Of The Year'])
-xxx = convert_credits_to_names(xx)
+x = deserialize('GRAMMIES_NAMES.csv')
+xxx = filter_by_categories(x, ['Record Of The Year'])
 serialize(xxx, 'RECORD_OF_THE_YEAR.csv')
 # x = deserialize('GRAMMIES.csv')
 # categories = ['Album','Artist','Producer','Remixer','Video','Package']
