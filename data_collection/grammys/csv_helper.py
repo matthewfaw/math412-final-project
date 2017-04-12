@@ -34,7 +34,11 @@ def deserialize(filename):
     with open(_defaultify(filename), 'rb') as csvfile:
         entrywriter = csv.reader(csvfile, encoding='utf-8')
         for row in entrywriter:
-            entry = Entry(row[0], row[1], row[2], row[3])
+            if len(row)<5:
+                vec = []
+            else:
+                vec = eval(row[4])
+            entry = Entry(row[0], row[1], row[2], row[3], vec)
             entries.append(entry)
     return entries
 
