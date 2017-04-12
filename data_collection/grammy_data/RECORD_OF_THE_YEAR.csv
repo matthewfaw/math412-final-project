@@ -15,7 +15,7 @@
 2001,Record Of The Year,Walk On,U2,"[0.00435, 0.532, 0.827, 0.000316, 0.234, 0.0272, 0.63]"
 2000,Record Of The Year,Beautiful Day,U2,"[0.0144, 0.537, 0.921, 0.00479, 0.382, 0.0481, 0.463]"
 1999,Record Of The Year,Smooth,Santana,"[0.16, 0.609, 0.923, 4.73e-06, 0.295, 0.0338, 0.96]"
-1998,Record Of The Year,My Heart Will Go On (Love Theme From Titanic),Celine Dion,[]
+1998,Record Of The Year,My Heart Will Go On (Love Theme From Titanic),Celine Dion,"[0.732, 0.428, 0.276, 5.33e-06, 0.117, 0.0312, 0.0382]"
 1997,Record Of The Year,Sunny Came Home,Shawn Colvin,"[0.344, 0.554, 0.58, 0.00842, 0.0989, 0.0322, 0.404]"
 1996,Record Of The Year,Change The World,Eric Clapton,"[0.492, 0.721, 0.558, 0.00563, 0.113, 0.0246, 0.547]"
 1995,Record Of The Year,Kiss From A Rose,Seal,"[0.684, 0.583, 0.532, 0, 0.306, 0.0309, 0.219]"
@@ -42,17 +42,17 @@
 1974,Record Of The Year,I Honestly Love You,Olivia Newton-John,"[0.908, 0.361, 0.265, 0, 0.0696, 0.0321, 0.147]"
 1973,Record Of The Year,Killing Me Softly With His Song,Roberta Flack,"[0.727, 0.477, 0.381, 0, 0.0615, 0.0342, 0.318]"
 1972,Record Of The Year,The First Time Ever I Saw Your Face,Roberta Flack,"[0.731, 0.311, 0.0264, 0.00205, 0.156, 0.037, 0.144]"
-1971,Record Of The Year,It's Too Late,Carole King,[]
+1971,Record Of The Year,It's Too Late,Carole King,"[0.498, 0.45, 0.441, 0.00562, 0.133, 0.0352, 0.818]"
 1970,Record Of The Year,Bridge Over Troubled Water,Simon & Garfunkel,"[0.822, 0.149, 0.206, 0.000649, 0.115, 0.0323, 0.263]"
 1969,Record Of The Year,Aquarius / Let The Sunshine In (The Flesh Failures) - Remastered,The 5th Dimension,"[0.446, 0.293, 0.74, 0.00151, 0.0998, 0.0399, 0.512]"
 1968,Record Of The Year,Mrs. Robinson,Simon & Garfunkel,"[0.713, 0.606, 0.457, 2.53e-05, 0.0747, 0.0497, 0.814]"
 1967,Record Of The Year,"Up, Up And Away",The 5th Dimension,"[0.599, 0.393, 0.362, 0, 0.333, 0.0305, 0.516]"
 1966,Record Of The Year,Strangers In The Night,Frank Sinatra,"[0.685, 0.271, 0.484, 0, 0.225, 0.0283, 0.498]"
-1965,Record Of The Year,A Taste Of Honey,Herb Alpert,[]
+1965,Record Of The Year,A Taste Of Honey,Herb Alpert & The Tijuana Brass,"[0.771, 0.571, 0.424, 0.881, 0.111, 0.0368, 0.499]"
 1964,Record Of The Year,The Girl From Ipanema,Astrud Gilberto,"[0.898, 0.563, 0.0867, 3.76e-05, 0.687, 0.0422, 0.352]"
 1963,Record Of The Year,Days Of Wine And Roses (Vocal) - 1995 Remastered,Henry Mancini,"[0.872, 0.224, 0.117, 0, 0.175, 0.0301, 0.211]"
 1962,Record Of The Year,I Left My Heart In San Francisco,Tony Bennett,"[0.955, 0.313, 0.078, 4.48e-06, 0.169, 0.0332, 0.124]"
 1961,Record Of The Year,Moon River,Henry Mancini,"[0.937, 0.39, 0.0235, 0.00128, 0.099, 0.0345, 0.151]"
-1960,Record Of The Year,The Theme From “A Summer Place”,Percy Faith,[]
+1960,Record Of The Year,The Theme From “A Summer Place”,Percy Faith,"[0.591, 0.326, 0.326, 0.918, 0.494, 0.0297, 0.864]"
 1959,Record Of The Year,Mack The Knife,Bobby Darin,"[0.76, 0.549, 0.529, 0, 0.206, 0.108, 0.451]"
 1958,Record Of The Year,Nel Blu Dipinto Di Blu (Volare),Domenico Modugno,"[0.987, 0.518, 0.06, 7.87e-06, 0.161, 0.0441, 0.359]"
