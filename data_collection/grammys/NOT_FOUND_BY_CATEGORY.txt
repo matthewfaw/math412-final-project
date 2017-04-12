@@ -1,0 +1,343 @@
+➜  math412-final-project git:(master) ✗ python analyze_spotify_misses.py
+Best Performance By A Dance Band :  1
+Best Contemporary Group Performance (Vocal Or Instrumental) :  1
+Best Contemporary Christian Music Performance/Song :  1
+Best Rock Performance By A Duo Or Group With Vocals :  1
+Best Rhythm & Blues Solo Vocal Performance, Male Or Female :  1
+Best Instrumental Arrangement Accompanying A Vocalist(s) :  1
+Best Performance - Instrumental Soloist Or Soloists (Without Orchestra) :  1
+Best Contemporary Pop Performance - Vocal Duo Or Group :  1
+Best Traditional Pop Performance :  1
+Best American Roots Song :  1
+Best Accompaniment Arrangement For Vocalist(s) Or Instrumentalist(s) :  1
+Best Classical Opera Production :  1
+Best Performance - Instrumental Soloist Or Soloists (With Orchestra) :  1
+Best Classical Performance - Instrumental Solo Without Orchestra :  1
+Best Jazz Performance Solo Or Small Group :  1
+Best Jazz Performance - Large Group (Instrumental) :  1
+Best Original Score From A Motion Picture Or Television Show :  1
+Best Jazz Instrumental Performance, Soloist (On A Jazz Recording) :  1
+Best Jazz Instrumental Performance Soloist (On A Jazz Recording) :  1
+Best Gospel Performance, Contemporary :  1
+Best Classical Performance - Operatic Or Choral :  1
+Best Instrumental Jazz Performance, Large Group Or Soloist With Large Group :  1
+Best Pop Vocal Performance By A Duo Or Group With Vocal :  1
+Best Jazz Vocal Performance Duo Or Group :  1
+Best Performance - Instrumental Soloist Or Soloists (With Or Without Orchestra) :  1
+Best Vocal Soloist Performance, Classical :  1
+Best Instrumental Performance, Non-Jazz :  1
+Best Choral Performance - Classical :  1
+Best Classical Performance, Instrumental Soloist(s) (Without Orchestra) :  1
+Best Historical Reissue :  1
+Best Arrangement Accompanying Vocals :  1
+Best Contemporary Composition :  1
+Best Classical Chamber Music Performance - Instrumental Or Vocal :  1
+Best Classical Performance Instrumental Solo Without Orchestra :  1
+Best Country Performance, Duo Or Group - Vocal Or Instrumental :  1
+Best Contemporary (R&R) Performance - Group (Vocal Or Instrumental) :  1
+Best Performance By An Orchestra - For Other Than Dancing :  1
+Best Spoken Word Or Drama Recording :  1
+Best Instrumental Soloist Performance (With Orchestra) :  1
+Best Rhythm & Blues Performance By A Duo Or Group, Vocal Or Instrumental :  1
+Best Musical Composition First Recorded And Released In 1958 (Over 5 Minutes Duration) :  1
+Best Salsa Performance :  1
+Best Country Instrumental Performance (Orchestra, Group Or Soloist) :  1
+Best Solo Vocal Performance, Female :  1
+Best Gospel Performance By A Duo Or Group :  1
+Best Pop Performance By A Duo Or Group With Vocals :  1
+Best Latin Rock/Alternative Performance :  1
+Best Rhythm & Blues Performance :  1
+Best Vocal Soloist Performance :  1
+Best Classical Performance, Instrumental Soloist Or Soloists (Without Orchestra) :  1
+Best Gospel/Contemporary Christian Music Performance :  1
+Best Engineered Recording (Classical) :  1
+Best Classical Performance, Instrumental Soloist Or Soloists (With Orchestra) :  1
+Best Gospel Performance Contemporary Or Inspirational :  1
+Best Performance - Folk :  1
+Best Mexican-American/Tejano Music Performance :  1
+Best Classical Performance - Vocal Or Instrumental - Chamber Music :  1
+Best Classical Performance - Instrumentalist (With Concerto Scale Accompaniment) :  1
+Best Sacred Performance :  1
+Best Classical Performance, Instrumental Soloist(s) (With Orchestra) :  1
+Best Classical Performance - Instrumental Soloist (Without Orchestra) :  1
+Best Engineered Recording :  1
+Best Rock Performance :  1
+Best Performance, Documentary Or Spoken Word :  1
+Best Contemporary Song :  1
+Best Jazz Performance - Small Group Or Soloist With Small Group :  1
+Best Tejano Music Performance :  1
+Best R&B Vocal Performance By A Group :  1
+Best Instrumental Arrangement With Accompanying Vocals :  1
+Best Classical Vocal Soloist :  1
+Best Classical Performance - Vocal Soloist :  1
+Best Original Score Written For A Motion Picture Or A Television Show :  1
+Best Contemporary Pop Vocal Performance, Male :  1
+Best Chamber Music Performance - Instrumental Or Vocal :  1
+Best Country & Western Song :  1
+Best Classical Performance - Concerto Or Instrumental Soloist :  1
+Best Gospel Vocal Performance, Female :  1
+Best Sacred Recording (Musical) :  1
+Best Song Written For A Motion Picture, Television Or Other Visual Media. :  1
+Best Folk Performance :  1
+Best Classical Performance - Instrumental Soloist (With Orchestra) :  1
+Best New Country Song :  1
+Best Contemporary Vocal Performance By A Group :  1
+Best Sacred Performance (Musical) :  1
+Best Male Rock Vocal Performance :  1
+Best Performance By A Vocal Group Or Chorus :  1
+Best Country & Western Performance Duet, Trio Or Group (Vocal Or Instrumental) :  1
+Best Instrumental Theme Or Instrumental Version Of Song :  1
+Best Classical Performance - Concerto Or Instrumental Soloist (With Full Orchestral Accompaniment) :  1
+Best Performance - Orchestra :  1
+Best Engineered Recording (Non-Classical) :  1
+Best R&B Performance By A Duo Or Group, Vocal Or Instrumental :  1
+Best Classical Performance-Instrumental Soloist (Without Orchestra) :  1
+Best Contemporary Single :  1
+Best Gospel Or Other Religious Recording :  1
+Best Classical Vocal Soloist Performance (With Or Without Orchestra) :  1
+Best Classical Performance-Instrumental Soloist(s) (With Orchestra) :  1
+Best Vocal Soloist Performance (With Or Without Orchestra) :  1
+Best Gospel Vocal Performance, Male :  1
+Best Arrangement Accompanying Vocalists :  1
+Best Sacred Performance (Non-Classical) :  1
+Best Jazz Fusion Performance, Vocal Or Istrumental :  1
+Best Classical Performance - Opera Cast Or Choral :  1
+Best Engineered Recording - Non Classical :  1
+Best Instrumental Performance (Other Than Jazz) :  1
+Best Arrangement For Voices :  1
+Best Arrangement Accompanying Vocal(s) :  1
+Best Classical Performance - Choral (Including Oratorio) :  1
+Best Classical Performance - Instrumentalist (Other Than Concerto-Scale Accompaniment) :  1
+Best Pop Vocal Performance, Female :  1
+Best Classical Performance - Concerto Or Instrumental Soloist (Other Than Full Orchestral Accompaniment) :  1
+Best Soul Gospel Vocal Performance Duo, Group, Choir Or Chorus :  1
+Best R&B Vocal Performance By A Duo Or Group :  1
+Best Documentary Or Spoken Word Recording (Other Than Comedy) :  1
+Best Gospel Performance, Contemporary Or Insprirational :  1
+Best Instrumental Jazz Performance - Large Group :  1
+Best Pop Solo Performance :  1
+Best Solo Rock Vocal Performance :  1
+Best Contemporary Pop Performance, Chorus :  1
+Best Instrumental Performance :  1
+Best Contemporary Performance By A Chorus :  1
+Best Classical Performance - Instrumental Solo With Orchestra :  1
+Best Chamber Music Or Other Small Ensemble Performance :  1
+Best Engineered Record (Classical) :  1
+Best Instrumental Jazz Performance - Small Group Or Soloist With Small Group :  1
+Best Contemporary Instrumental Performance :  1
+Best Instrumental Soloist With Orchestra :  1
+Best Country Solo Performance :  1
+Best Comedy Performance (Musical) :  1
+Best Instrumental Soloist Performance Without Orchestra :  1
+Best Contemporary Jazz Performance (Instrumental) :  1
+Best Comedy Performance - Musical :  1
+Best Jazz Performance Large Group :  1
+Best Country & Western Performance :  1
+Best Jazz Composition Of More Than Five Minutes Duration :  1
+Best Engineered Record - Non-Classical :  1
+Best Spoken Word, Documentary Or Drama :  1
+Best Jazz Fusion Performance :  2
+Best Instrumental Arrangement With Accompanying Vocal(s) :  2
+Best Rock Vocal Performance, Male :  2
+Best Arrangement, Instruments and Vocals :  2
+Best Instrumental Jazz Performance - Large Group Or Soloist With Large Group :  2
+Best Country Vocal Performance, Male :  2
+Best Background Arrangement :  2
+Best Rock & Roll Recording :  2
+Best Arrangement, Instrumental or A Cappella :  2
+Best Classical Performance - Chamber Music (Including Chamber Orchestra) :  2
+Best Classical Performance - Choral (Other Than Opera) :  2
+Best Contemporary (R&R) Group Performance, Vocal Or Instrumental :  2
+Best Female Rock Vocal Performance :  2
+Best Arrangement :  2
+Best Classical Performance, Orchestra :  2
+Best Gospel Or Other Religious Recording (Musical) :  2
+Best New Age Performance :  2
+Best Country & Western Vocal Performance - Female :  2
+Best Rhythm & Blues Group Performance, Vocal Or Instrumental :  2
+Best Classical Performance, Instrumental Soloist (With Orchestra) :  2
+Best Male Pop Vocal Performance :  2
+Best Country Performance By A Duo Or Group With Vocals :  2
+Best Classical Performance - Instrumental Soloist(s) (With Orchestra) :  2
+Best Pop Instrumental Performance (Orchestra, Group Or Soloist) :  2
+Best Engineering Contribution - Other Than Classical Or Novelty :  2
+Best Rock Instrumental Performance (Orchestra, Group Or Soloist) :  2
+Best Classical Performance - Instrumental Soloist(s) (Without Orchestra) :  2
+Best Instrumental Arrangement Accompanying Vocals :  2
+Best Classical Performance, Instrumental Soloist (Without Orchestra) :  2
+Best Performance By A Chorus (7 Or More Persons) :  2
+Best Performance By An Orchestra :  2
+Best Ethnic Or Traditional Folk Recording :  2
+Best Classical Performance - Instrumental Soloist OR Soloists (With Orchestra) :  2
+Best Mexican-American Performance :  2
+Best Male Country Vocal Performance :  2
+Best Chamber Music Performance - Vocal :  2
+Best Pop Duo/Group Performance :  2
+Best Engineering Contribution - Novelty Recording :  2
+Best Contemporary Folk Recording :  2
+Best Instrumental Jazz Performance, Small Group Or Soloist With Small Group :  2
+Best Score Soundtrack For Visual Media :  2
+Best R&B Performance :  2
+Best Documentary, Spoken Word Or Drama Recording (Other Than Comedy) :  2
+Best Performance - Documentary Or Spoken Word (Other Than Comedy) :  2
+Best Arrangement On An Instrumental Recording :  2
+Best Soul Gospel Performance By A Duo Or Group :  2
+Best Traditional R&B Performance :  2
+Best Pop Vocal Performance, Male :  3
+Best Classical Performance - Chamber Music :  3
+Best Contemporary Christian Music Song :  3
+Best Classical Orchestral Performance :  3
+Best Ethnic Or Traditional Recording (Including Traditional Blues) :  3
+Best Comedy Performance :  3
+Best Orchestral Recording :  3
+Best Original Score Written For A Motion Picture Or A Television Special :  3
+Best Ethnic Or Traditional Recording :  3
+Best Contemporary Classical Composition :  3
+Best Gospel Performance By A Duo Or Group, Choir Or Chorus :  3
+Best Small Ensemble Performance (With Or Without Conductor) :  3
+Best Female Pop Vocal Performance :  3
+Best Classical Performance - Instrumental Soloist Or Duo (Without Orchestra) :  3
+Best Performance Of A Choral Work :  3
+Best Traditional Folk Recording :  3
+Best Engineering Contribution - Classical Recording :  3
+Best Gospel Performance, Contemporary Or Inspirational :  3
+Best Classical Vocal Solo :  3
+Best Arrangement Accompanying A Vocalist Or Instrumentalist :  3
+Best Rhythm & Blues Recording :  3
+Best Original Score Written For A Motion Picture Or Television Show :  3
+Best Tropical Latin Performance :  3
+Best Vocal Performance, Female :  3
+Best Performance By An Orchestra Or Instrumentalist With Orchestra - Primarily Not Jazz Or For Dancing :  3
+Best Chamber Music/Small Ensemble Performance :  3
+Best R&B Instrumental Performance (Orchestra, Group Or Soloist) :  3
+Best Classical Engineered Recording :  3
+Best Jazz Performance By A Soloist :  3
+Best Song Written Specifically For A Motion Picture Or Television :  3
+Best Compilation Soundtrack For Visual Media :  4
+Best Rap Solo Performance :  4
+Best Gospel Performance, Male :  4
+Best Classical Performance Instrumental Soloist Or Soloists (With Orchestra) :  4
+Best Vocal Arrangement For Two Or More Voices :  4
+Best Contemporary Blues Recording :  4
+Best Classical Performance Instrumental Soloist Or Soloists (Without Orchestra) :  4
+Best Soul Gospel Performance By A Duo, Group, Choir Or Chorus :  4
+Best Jazz Fusion Performance, Vocal Or Instrumental :  4
+Best Song Written For A Motion Picture, Television Or Other Visual Media :  4
+Best Country Vocal Collaboration :  4
+Best Country Vocal Performance, Female :  4
+Best Pop Vocal Performance By A Duo, Group Or Chorus :  4
+Best Reggae Recording :  4
+Best Traditional Pop Vocal Performance :  4
+Best Soul Gospel Performance, Male :  4
+Best Soul Gospel Performance, Contemporary :  4
+Best Instrumental Composition Written For A Motion Picture Or For Television :  4
+Best Classical Contemporary Composition :  4
+Best Instrumental Theme :  4
+Best Jazz Instrumental Performance, Individual Or Group :  4
+Best Soul Gospel Performance, Traditional :  4
+Best Engineering Contribution - Novelty :  4
+Best Folk Recording :  4
+Best Classical Compendium :  4
+Best Music Film :  4
+Best Song Written For Motion Picture, Television Or Other Visual Media :  4
+Best Engineered Recording - Special Or Novel Effects :  4
+Best Gospel Song :  5
+Best Instrumental Soloist(s) Performance (With Orchestra) :  5
+Best Contemporary Jazz Performance :  5
+Best Small Ensemble Performance (with or without Conductor) :  5
+Best Urban/Alternative Performance :  5
+Best Classical Performance - Vocal Soloist (With Or Without Orchestra) :  5
+Best Female Country Vocal Performance :  5
+Best Song Written For Visual Media :  5
+Best Instrumental Soloist Performance (Without Orchestra) :  5
+Best Rap Performance :  5
+Best Male R&B Vocal Performance :  5
+Best R&B Performance By A Duo Or Group With Vocals :  5
+Best Latin Jazz Performance :  5
+Best Classical Performance - Instrumental Soloist Or Soloists (With Or Without Orchestra) :  5
+Best Jazz Performance By A Group :  5
+Best Jazz Vocal Performance :  5
+Best Female R&B Vocal Performance :  5
+Best Spoken Word, Documentary Or Drama Recording :  5
+Best Soul Gospel Performance, Female :  5
+Best Gospel Performance, Female :  5
+Best Classical Instrumental Solo :  5
+Best Classical Choral Performance (Other Than Opera) :  5
+Best Jazz Performance By A Big Band :  5
+Best Original Jazz Composition :  5
+Best Jazz Instrumental Performance, Soloist :  6
+Best Traditional Blues Recording :  6
+Best Small Ensemble Performance :  6
+Best Gospel Performance, Traditional :  6
+Best Classical Orchestral Recording :  6
+Best Improvised Jazz Solo :  6
+Best Jazz Vocal Performance, Duo Or Group :  6
+Best Inspirational Performance :  6
+Best Jazz Vocal Performance, Male :  6
+Best Country Vocal Performance By A Duo Or Group :  6
+Best Jazz Vocal Performance, Female :  6
+Best Dance Recording :  6
+Best Latin Recording :  7
+Best Polka Recording :  7
+Best Spoken Word Or Non-Musical Recording :  7
+Best Traditional R&B Vocal Performance :  7
+Best R&B Vocal Performance, Male :  7
+Best R&B Vocal Performance By A Duo, Group Or Chorus :  7
+Best Gospel Performance (Other Than Soul Gospel) :  7
+Best Large Jazz Ensemble Performance :  7
+Best Hard Rock Performance :  7
+Best Song Written Specifically For A Motion Picture Or For Television :  7
+Best Choral Performance, Classical (Other Than Opera) :  7
+Best Latin Pop Performance :  8
+Best Comedy Recording :  8
+Best Gospel Performance :  8
+Best R&B Vocal Performance, Female :  8
+Best Metal Performance :  8
+Best R&B Performance By A Duo Or Group With Vocal :  8
+Best Arrangement Accompanying Vocalist(s) :  8
+Best Arrangement On An Instrumental :  9
+Best Rap/Sung Collaboration :  9
+Best Jazz Instrumental Performance, Group :  9
+Best Classical Performance - Instrumental Soloist Or Soloists (Without Orchestra) :  9
+Best Soul Gospel Performance :  9
+Best Engineered Recording - Classical :  9
+Best Instrumental Soloist(s) Performance (with Orchestra) :  10
+Best Instrumental Soloist Performance (without Orchestra) :  10
+Best Spoken Word Recording :  10
+Best Classical Performance - Instrumental Soloist Or Soloists (With Orchestra) :  10
+Best R&B Instrumental Performance :  10
+Best R&B Song :  11
+Best Rap Performance By A Duo Or Group :  11
+Best Rap Song :  11
+Best Country Collaboration With Vocals :  12
+Best Rock Performance By A Duo Or Group With Vocal :  12
+Best Instrumental Arrangement Accompanying Vocal(s) :  12
+Best Pop Collaboration With Vocals :  12
+Best Rock Song :  12
+Best Jazz Instrumental Performance, Big Band :  13
+Best Instrumental Arrangement Accompanying Vocalist(s) :  13
+Best Pop Performance By A Duo Or Group With Vocal :  13
+Best Performance By A Chorus :  14
+Best Jazz Instrumental Solo :  14
+Best Classical Performance - Orchestra :  14
+Best Choral Performance (Other Than Opera) :  15
+Best Remixed Recording, Non-Classical :  15
+Best Country Performance By A Duo Or Group With Vocal :  17
+Best Rhythm & Blues Song :  17
+Record Of The Year :  18
+Best Classical Vocal Performance :  20
+Best Engineered Recording, Classical :  21
+Best Classical Vocal Soloist Performance :  21
+Best Choral Performance :  21
+Best Rock Instrumental Performance :  21
+Best Country Instrumental Performance :  21
+Best Pop Instrumental Performance :  23
+Best Instrumental Composition :  24
+Best Engineered Recording - Non-Classical :  24
+Best Orchestral Performance :  28
+Best Recording For Children :  29
+Best Instrumental Arrangement :  30
+Best Country Song :  34
+Song Of The Year :  34
+Best Chamber Music Performance :  43
+Best Opera Recording :  55
