@@ -1,13 +1,21 @@
 from data_collection.grammys.csv_helper import serialize, deserialize
 
-x=deserialize('NOT_FOUND.csv')
-a = {}
-for e in x:
-    if e.category in a:
-        a[e.category] += 1
-    else:
-        a[e.category] = 1
+def generate_counts(array):
+    category_counts = {}
+    for entry in array:
+        if entry.category in category_counts:
+            category_counts[entry.category] += 1
+        else:
+            category_counts[entry.category] = 1
+    return category_counts
 
-for key in sorted(a, key=a.get):
-    print key,': ', a[key]
+all_grammies = deserialize('GRAMMIES.csv')
+not_found=deserialize('NOT_FOUND.csv')
+
+all_counts = generate_counts(all_grammies)
+not_found_counts = generate_counts(not_found)
+
+print 'CATEGORY: # not found / total #'
+for key in sorted(not_found_counts, key=not_found_counts.get):
+    print key,': ', not_found_counts[key], '/', all_counts[key]
 
