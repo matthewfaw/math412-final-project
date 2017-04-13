@@ -23,7 +23,7 @@ def vectorize_song(song_id):
 	sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 	sp.trace=True
 	features = sp.audio_features([song_id])
-	print json.dumps(features, indent=4)
+	#print json.dumps(features, indent=4)
 	dict = features[0]
 	return [dict['acousticness'], dict['danceability'], dict['energy'], dict['instrumentalness'], dict['liveness'], dict['speechiness'], dict['valence']]
 	#return [dict['energy'], dict['liveness'], dict['tempo'], dict['speechiness'], dict['acousticness'], dict['instrumentalness'], dict['time_signature'], dict['danceability'], dict['key'], dict['duration_ms'], dict['loudness'], dict['valence']]
