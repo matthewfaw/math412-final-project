@@ -1,6 +1,6 @@
 from data_collection.grammys.csv_helper import deserialize
 from data_collection.grammys.csv_helper import serialize as csv_serialize
-from spotify_queries.queries import spotify_query
+from data_collection.spotify_queries.queries import spotify_query
 from  serializer.serializer import serialize
 
 entries_list = []
