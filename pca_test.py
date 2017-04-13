@@ -7,3 +7,4 @@ pca = PCA(n_components=2)
 pca.fit(data)
 print pca.components_
 print pca.explained_variance_ratio_
+print pca.transform(data)
