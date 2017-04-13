@@ -1,3 +1,6 @@
+import sys
+from os import path
+sys.path.append( path.dirname( path.dirname( path.abspath(__file__) ) ) )
 from data_collection.grammys.csv_helper import deserialize
 from data_collection.grammys.csv_helper import serialize as csv_serialize
 from data_collection.spotify_queries.queries import spotify_query
