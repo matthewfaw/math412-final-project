@@ -19,6 +19,7 @@ def get_spotify_id(song_name, artist_name):
 	return None
 
 def vectorize_song(song_id):
+        # NOTE mfaw: you could probs move this outside of this method call, and the method would execute significantly faster
 	client_credentials_manager = SpotifyClientCredentials(client_id=cid.client_id, client_secret=cid.client_secret)
 	sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 	sp.trace=True
