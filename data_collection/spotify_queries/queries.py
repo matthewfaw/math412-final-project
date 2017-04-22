@@ -5,7 +5,9 @@ import sys
 import spotipy
 import time
 
-sp = spotipy.Spotify()
+client_credentials_manager = SpotifyClientCredentials(client_id=cid.client_id, client_secret=cid.client_secret)
+sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+sp.trace=True
 
 def get_spotify_id(song_name, artist_name):
 	results = sp.search(q=song_name)
@@ -20,9 +22,6 @@ def get_spotify_id(song_name, artist_name):
 
 def vectorize_song(song_id):
         # NOTE mfaw: you could probs move this outside of this method call, and the method would execute significantly faster
-	client_credentials_manager = SpotifyClientCredentials(client_id=cid.client_id, client_secret=cid.client_secret)
-	sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
-	sp.trace=True
 	features = sp.audio_features([song_id])
 	#print json.dumps(features, indent=4)
 	dict = features[0]
