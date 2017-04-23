@@ -55,9 +55,10 @@ def get_all_track_ids(artist_name):
         tracks[album['name']] = _get_track_ids(album['id'])
     return tracks
 
+m = {}
 if len(sys.argv) == 2:
     m = get_all_track_ids(sys.argv[1])
-else:
-    m= get_all_track_ids('Arcade Fire')
-print m
+    print m
+# else:
+    # m= get_all_track_ids('Arcade Fire')
 # print convert_map_vals_to_list(m)

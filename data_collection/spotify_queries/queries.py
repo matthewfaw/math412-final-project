@@ -21,7 +21,6 @@ def get_spotify_id(song_name, artist_name):
 	return None
 
 def vectorize_song(song_id):
-        # NOTE mfaw: you could probs move this outside of this method call, and the method would execute significantly faster
 	features = sp.audio_features([song_id])
 	#print json.dumps(features, indent=4)
 	dict = features[0]
