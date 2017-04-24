@@ -1,11 +1,19 @@
 from data_collection.spotify_queries.artists import get_all_track_ids
 from data_collection.grammys.csv_helper import deserialize
-from serializer.serializer import serialize 
+from serializer.serializer import serialize as pickle
 from serializer.serializer import deserialize as depickle
+from data_collection.spotify_queries.queries import vectorize_song
 
-def create_catalogs(csv_file_src):
-    entries = deserialize(csv_file_src)
-
+def create_catalogs(entries):
+    '''
+    Input:
+    entries -- a list of grammy Entry objects
+    Output:
+    A dictionary of the form:
+        { artist_name: { album_name: [song_ids] } }
+    where the keys of the dictionary correspond to all
+    artists featured in the entries
+    '''
     catalogs = {}
     for entry in entries:
         artist = entry.credits
@@ -15,6 +23,28 @@ def create_catalogs(csv_file_src):
 
     return catalogs
 
+def featureize_catalogs(catalogs):
+    '''
+    Input:
+    catalogs -- the object returned from create_catalogs
+    Output:
+    a catalog, with populated feature vectors
+        { artist_name: { album_name: [[song_vector]] } }
+    '''
+    for artist_name, albums in catalogs.iteritems():
+        print artist_name
+        print
+        for album_name, song_ids in albums.iteritems():
+            print album_name
+            for index, song_id in enumerate(song_ids):
+                print index, song_id
+                catalogs[artist_name][album_name][index] = vectorize_song(song_id)
+        print
+
+    print 'Done making'
+    return catalogs
+
+# Print out what the catalog looks like
 catalogs = depickle('artists_tracks_from_record_of_the_year')
 print 'These are all the artists who won Record of The Year'
 print
@@ -28,5 +58,13 @@ print 'These are all the song ids off of 52nd Street'
 print
 print catalogs['Billy Joel']['52nd Street']
 
-# catalogs = create_catalogs('RECORD_OF_THE_YEAR.csv')
-# serialize(catalogs,'artists.json')
+# catalogs = featureize_catalogs(catalogs)
+catalogs = depickle('artists_tracks_from_record_of_the_year_with_song_feature_vectors')
+print 'These are all the song feature vectors off of 52nd Street'
+print
+print catalogs['Billy Joel']['52nd Street']
+
+# Create a catalog
+# entries = deserialize('RECORD_OF_THE_YEAR.csv')
+# catalogs = create_catalogs(entries)
+# pickle(catalogs,'artists')
