@@ -67,8 +67,24 @@ A music data exploration project using Topological Data Analysis
 
 ### queries.py
 
-- get_spotify_id(song_name, artist_name)
+- `get_spotify_id(song_name, artist_name)`
 
-- vectorize_song(song_id)
+- `vectorize_song(song_id)`
 
-- spotify_query(song_name, artist_name)
+- `spotify_query(song_name, artist_name)`
+
+### artists.py
+
+- `get_all_track_ids(artist_name)`
+  - Get the ids of all songs artist_name has released on Spotify
+  - Input:
+    - artist_name: Name of the artist, e.g. Arcade Fire
+  - Output:
+    - A dictionary in format { AlbumName: [song_ids] }
+
+- `convert_map_vals_to_list(map)`
+  - Converts the dictionary values into one array.  Useful in converting the song ids of get_all_track_ids into one list
+  - Input:
+    - a dictionary
+  - Output:
+    - a list of the values of that dictionary
