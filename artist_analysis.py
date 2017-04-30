@@ -27,6 +27,6 @@ def analyze_artist(artist_dict):
         plt.show()
 
 def remove_null(vectors):
-    return np.array([list(row) for row in vectors if all(None is not x for x in row)])
+    return np.array([list(row) for row in vectors if (row is not None and all(None is not x for x in row))])
 
 analyze_artist(catalogs['Billy Joel'])
