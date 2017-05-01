@@ -58,7 +58,7 @@ def persistence_plotter(vector, persistence_dim, artist, album, clean_strategy, 
     plt.title(title)
     if save_plot:
         plt.savefig('%s.pdf'%title,bbox_inches='tight')
-    # else:
-        # plt.show()
+    else:
+        plt.show()
 
 analyze_artists(catalogs, 0, _pca_data_cleaner, persistence_plotter,False)
