@@ -33,10 +33,16 @@ def analyze_artist(artist, artist_dict, persistence_dim, clean_data_fcn, plot_fc
     Output:
     persistence diagram for the artist's albums
     '''
+    short_albums = []
     for album, song_vectors in artist_dict.iteritems():
-        vector_array = np.array(song_vectors)
-        cleaned_vector = clean_data_fcn(vector_array)
-        plot_fcn(cleaned_vector,persistence_dim, artist, album, clean_data_fcn.__name__, save_plot)
+        if len(song_vectors) > 1:
+            vector_array = np.array(song_vectors)
+            cleaned_vector = clean_data_fcn(vector_array)
+            plot_fcn(cleaned_vector,persistence_dim, artist, album, clean_data_fcn.__name__, save_plot)
+        else:
+            print artist, album + " has one or fewer songs"
+            short_albums.append(artist + " " + album)
+    print short_albums
 
 def _remove_null(vectors):
     return np.array([list(row) for row in vectors if (row is not None and all(None is not x for x in row))])
