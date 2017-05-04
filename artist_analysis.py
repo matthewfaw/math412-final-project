@@ -52,14 +52,14 @@ def _pca_data_cleaner(array):
     pca_vector_array = pca.do_pca(cleaned_vectors)
     return pca_vector_array
 
-def get_title(artist, album, clean_strategy, persistence_dim):
+def _get_title(artist, album, clean_strategy, persistence_dim):
     return '%s, %s, %s, %dD-persistence' % (artist,album,clean_strategy,persistence_dim)
 
-def persistence_plotter(vector, persistence_dim, artist, album, clean_strategy, save_plot):
+def _persistence_plotter(vector, persistence_dim, artist, album, clean_strategy, save_plot):
     print vector, persistence_dim
     pca_bd_pairs = rips.one_tda(vector, persistence_dim)
     rips.plotDGM(pca_bd_pairs)
-    title = get_title(artist, album, clean_strategy, persistence_dim)
+    title = _get_title(artist, album, clean_strategy, persistence_dim)
     print title
     plt.title(title)
     if save_plot:
@@ -67,4 +67,4 @@ def persistence_plotter(vector, persistence_dim, artist, album, clean_strategy, 
     else:
         plt.show()
 
-analyze_artists(catalogs, 0, _pca_data_cleaner, persistence_plotter,False)
+analyze_artists(catalogs, 0, _pca_data_cleaner, _persistence_plotter,False)
