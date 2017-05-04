@@ -45,6 +45,12 @@ def analyze_artist(artist, artist_dict, persistence_dim, clean_data_fcn, plot_fc
             short_albums.append(artist + " " + album)
     #print short_albums
 
+def analyze_artist_full(artist, song_vectors, persistence_dim, clean_data_fcn, plot_fcn, save_plot):
+    vector_array = np.array(song_vectors)
+    cleaned_vector = clean_data_fcn(vector_array)
+    plot_fcn(cleaned_vector, persistence_dim, artist, len(cleaned_vector), clean_data_fcn.__name__, save_plot)
+
+
 def _remove_null(vectors):
     return np.array([list(row) for row in vectors if (row is not None and all(None is not x for x in row))])
 
@@ -72,6 +78,20 @@ def _persistence_plotter(vector, persistence_dim, artist, album, num_songs, clea
         print album
         plt.show()
     plt.gcf().clear()
+
+def _no_album_plotter(vector, persistence_dim, artist, num_songs, clean_strategy, save_plot):
+    pca_bd_pairs = rips.one_tda(vector, persistence_dim)
+    rips.plotDGM(pca_bd_pairs)
+    title = _get_title(artist, "", num_songs, clean_strategy, persistence_dim)
+    #print title
+    plt.title(title)
+    if save_plot:
+        plt.savefig('./plots/%s.pdf'%title,bbox_inches='tight')
+    else:
+        print album
+        plt.show()
+    plt.gcf().clear()
+
 
 print catalogs.keys()
 
