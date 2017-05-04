@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import data_analysis.do_pca as pca
 import rips
+from artist_catalogs import get_all_songs
 
 catalogs = depickle('artists_tracks_from_record_of_the_year_with_song_feature_vectors')
 base_catalogs = depickle('baseline_artists_populated_feature_vectors')
@@ -66,11 +67,11 @@ def _get_title(artist, album, num_songs, clean_strategy, persistence_dim):
     return ('%s, %s, %s, %dD-persistence\nNumber of Songs: %d' % (artist,album,clean_strategy,persistence_dim, num_songs)).replace('/', '')
 
 def _persistence_plotter(vector, persistence_dim, artist, album, num_songs, clean_strategy, save_plot):
-    #print vector, persistence_dim
+    print vector, persistence_dim
     pca_bd_pairs = rips.one_tda(vector, persistence_dim)
     rips.plotDGM(pca_bd_pairs)
     title = _get_title(artist, album, num_songs, clean_strategy, persistence_dim)
-    #print title
+    print title
     plt.title(title)
     if save_plot:
         plt.savefig('./plots/%s.pdf'%title,bbox_inches='tight')
@@ -80,10 +81,11 @@ def _persistence_plotter(vector, persistence_dim, artist, album, num_songs, clea
     plt.gcf().clear()
 
 def _no_album_plotter(vector, persistence_dim, artist, num_songs, clean_strategy, save_plot):
+    print vector, persistence_dim
     pca_bd_pairs = rips.one_tda(vector, persistence_dim)
     rips.plotDGM(pca_bd_pairs)
     title = _get_title(artist, "", num_songs, clean_strategy, persistence_dim)
-    #print title
+    print title
     plt.title(title)
     if save_plot:
         plt.savefig('./plots/%s.pdf'%title,bbox_inches='tight')
@@ -97,8 +99,10 @@ print catalogs.keys()
 
 for dim in range(3):
     for clean_fnc in [PCA, NO_PCA]:
-        analyze_artist('Eric Clapton', catalogs['Eric Clapton'], dim, clean_fnc, _persistence_plotter, True)
-        analyze_artist('Coldplay', catalogs['Coldplay'], dim, clean_fnc, _persistence_plotter, True)
-        analyze_artist('U2', catalogs['U2'], dim, clean_fnc, _persistence_plotter, True)
-        analyze_artists(base_catalogs, dim, clean_fnc, _persistence_plotter, True)
+        for artist in ["Eric Clapton", "Coldplay", "U2"]:
+            analyze_artist(artist, catalogs[artist], dim, clean_fnc, _persistence_plotter, True)
+            analyze_artist_full(artist, get_all_songs(catalogs, artist), dim, clean_fnc, _no_album_plotter, True)
+        for artist in base_catalogs.keys():
+            analyze_artist(artist, base_catalogs[artist], dim, clean_fnc, _persistence_plotter, True)
+            analyze_artist_full(artist, get_all_songs(base_catalogs, artist), dim, clean_fnc, _no_album_plotter, True)
 #analyze_artists(catalogs, 0, PCA, _persistence_plotter,False)
