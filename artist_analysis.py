@@ -84,7 +84,7 @@ def _no_album_plotter(vector, persistence_dim, artist, num_songs, clean_strategy
     print vector, persistence_dim
     pca_bd_pairs = rips.one_tda(vector, persistence_dim)
     rips.plotDGM(pca_bd_pairs)
-    title = _get_title(artist, "", num_songs, clean_strategy, persistence_dim)
+    title = _get_title(artist, "All Songs", num_songs, clean_strategy, persistence_dim)
     print title
     plt.title(title)
     if save_plot:
