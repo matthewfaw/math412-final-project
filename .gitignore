@@ -3,4 +3,7 @@
 .DS_Store?
 *.log
 *.pyc
+plots/*
+serializer/data/*
+DLower.txt
 
