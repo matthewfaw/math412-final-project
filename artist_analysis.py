@@ -35,7 +35,7 @@ def analyze_artist(artist, artist_dict, persistence_dim, clean_data_fcn, plot_fc
     '''
     short_albums = []
     for album, song_vectors in artist_dict.iteritems():
-        if len(song_vectors) > 1:
+        if len(song_vectors) > persistence_dim + 1:
             vector_array = np.array(song_vectors)
             cleaned_vector = clean_data_fcn(vector_array)
             plot_fcn(cleaned_vector,persistence_dim, artist, album, clean_data_fcn.__name__, save_plot)
@@ -47,10 +47,13 @@ def analyze_artist(artist, artist_dict, persistence_dim, clean_data_fcn, plot_fc
 def _remove_null(vectors):
     return np.array([list(row) for row in vectors if (row is not None and all(None is not x for x in row))])
 
-def _pca_data_cleaner(array):
+def PCA(array):
     cleaned_vectors = _remove_null(array)
     pca_vector_array = pca.do_pca(cleaned_vectors)
     return pca_vector_array
+
+def NO_PCA(array):
+    return array
 
 def get_title(artist, album, clean_strategy, persistence_dim):
     return '%s, %s, %s, %dD-persistence' % (artist,album,clean_strategy,persistence_dim)
@@ -63,8 +66,17 @@ def persistence_plotter(vector, persistence_dim, artist, album, clean_strategy, 
     print title
     plt.title(title)
     if save_plot:
-        plt.savefig('%s.pdf'%title,bbox_inches='tight')
+        plt.savefig('./plots/%s.pdf'%title,bbox_inches='tight')
     else:
+        print album
         plt.show()
+    plt.gcf().clear()
 
-analyze_artists(catalogs, 0, _pca_data_cleaner, persistence_plotter,False)
+print catalogs.keys()
+
+for i in range(3):
+    analyze_artist('Eric Clapton', catalogs['Eric Clapton'], i, NO_PCA, persistence_plotter, True)
+    analyze_artist('Coldplay', catalogs['Coldplay'], i, NO_PCA, persistence_plotter, True)
+    analyze_artist('U2', catalogs['U2'], i, NO_PCA, persistence_plotter, True)
+#analyze_artists(catalogs, 1, PCA, persistence_plotter,False)
+#analyze_artists(catalogs, 0, PCA, persistence_plotter,False)
