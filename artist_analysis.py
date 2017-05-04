@@ -5,6 +5,7 @@ import data_analysis.do_pca as pca
 import rips
 
 catalogs = depickle('artists_tracks_from_record_of_the_year_with_song_feature_vectors')
+base_catalogs = depickle('baseline_artists_populated_feature_vectors')
 
 def analyze_artists(catalog, persistence_dim, clean_data_fcn, plot_fcn, save_plot):
     '''
@@ -38,11 +39,11 @@ def analyze_artist(artist, artist_dict, persistence_dim, clean_data_fcn, plot_fc
         if len(song_vectors) > persistence_dim + 1:
             vector_array = np.array(song_vectors)
             cleaned_vector = clean_data_fcn(vector_array)
-            plot_fcn(cleaned_vector,persistence_dim, artist, album, clean_data_fcn.__name__, save_plot)
+            plot_fcn(cleaned_vector, persistence_dim, artist, album, len(cleaned_vector), clean_data_fcn.__name__, save_plot)
         else:
-            print artist, album + " has one or fewer songs"
+            print artist, album + " has too few songs"
             short_albums.append(artist + " " + album)
-    print short_albums
+    #print short_albums
 
 def _remove_null(vectors):
     return np.array([list(row) for row in vectors if (row is not None and all(None is not x for x in row))])
@@ -53,17 +54,17 @@ def PCA(array):
     return pca_vector_array
 
 def NO_PCA(array):
-    return array
+    return  _remove_null(array)
 
-def _get_title(artist, album, clean_strategy, persistence_dim):
-    return '%s, %s, %s, %dD-persistence' % (artist,album,clean_strategy,persistence_dim)
+def _get_title(artist, album, num_songs, clean_strategy, persistence_dim):
+    return ('%s, %s, %s, %dD-persistence\nNumber of Songs: %d' % (artist,album,clean_strategy,persistence_dim, num_songs)).replace('/', '')
 
-def _persistence_plotter(vector, persistence_dim, artist, album, clean_strategy, save_plot):
-    print vector, persistence_dim
+def _persistence_plotter(vector, persistence_dim, artist, album, num_songs, clean_strategy, save_plot):
+    #print vector, persistence_dim
     pca_bd_pairs = rips.one_tda(vector, persistence_dim)
     rips.plotDGM(pca_bd_pairs)
-    title = _get_title(artist, album, clean_strategy, persistence_dim)
-    print title
+    title = _get_title(artist, album, num_songs, clean_strategy, persistence_dim)
+    #print title
     plt.title(title)
     if save_plot:
         plt.savefig('./plots/%s.pdf'%title,bbox_inches='tight')
@@ -74,9 +75,10 @@ def _persistence_plotter(vector, persistence_dim, artist, album, clean_strategy,
 
 print catalogs.keys()
 
-for i in range(3):
-    analyze_artist('Eric Clapton', catalogs['Eric Clapton'], i, NO_PCA, _persistence_plotter, True)
-    analyze_artist('Coldplay', catalogs['Coldplay'], i, NO_PCA, _persistence_plotter, True)
-    analyze_artist('U2', catalogs['U2'], i, NO_PCA, _persistence_plotter, True)
-#analyze_artists(catalogs, 1, PCA, _persistence_plotter,False)
+for dim in range(3):
+    for clean_fnc in [PCA, NO_PCA]:
+        analyze_artist('Eric Clapton', catalogs['Eric Clapton'], dim, clean_fnc, _persistence_plotter, True)
+        analyze_artist('Coldplay', catalogs['Coldplay'], dim, clean_fnc, _persistence_plotter, True)
+        analyze_artist('U2', catalogs['U2'], dim, clean_fnc, _persistence_plotter, True)
+        analyze_artists(base_catalogs, dim, clean_fnc, _persistence_plotter, True)
 #analyze_artists(catalogs, 0, PCA, _persistence_plotter,False)
