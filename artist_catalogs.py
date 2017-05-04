@@ -44,6 +44,13 @@ def featureize_catalogs(catalogs):
     print 'Done making'
     return catalogs
 
+def get_all_songs(catoalogs, artist_name):
+    artist_catalog = catalogs[artist_name]
+    songs = []
+    for album, song_vecs in artist_catalog.iteritems():
+        songs.extend(song_vecs)
+    return songs
+
 # Print out what the catalog looks like
 catalogs = depickle('artists_tracks_from_record_of_the_year')
 print 'These are all the artists who won Record of The Year'
