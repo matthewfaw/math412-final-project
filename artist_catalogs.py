@@ -44,8 +44,8 @@ def featureize_catalogs(catalogs):
     print 'Done making'
     return catalogs
 
-def get_all_songs(catoalogs, artist_name):
-    artist_catalog = catalogs[artist_name]
+def get_all_songs(all_catalogs, artist_name):
+    artist_catalog = all_catalogs[artist_name]
     songs = []
     for album, song_vecs in artist_catalog.iteritems():
         songs.extend(song_vecs)
